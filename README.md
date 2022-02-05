@@ -26,3 +26,6 @@ ils disposeront d'un niveau de couleur parmis ceux ci dessous :
 - **vert** : plus de **70%** de correspondance, sans doute la bonne réponse.
 
 *Si aucun résultat n'est affiché alors il n'y a pas de faute ou le résultat est hashé/chiffré et donc impossible a trouvé avec les données fournis.*
+
+![result example]https://media.discordapp.net/attachments/750647043696885822/939588042040164362/unknown.png)
+

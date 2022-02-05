@@ -76,7 +76,7 @@ fs.readFile('data.txt',async (err, data) => {
                 else if( percent > 70 && data[i].length < 70 ){
                     
                     if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
-                        console.log('\x1b[32m%s\x1b[0m', ">> "+data[i].split('ϋ>')[1].split('</B>')[0])
+                        console.log('\x1b[32m%s\x1b[0m', " "+data[i].split('ϋ>')[1].split('</B>')[0])
                         /*let r = data[i].replace( " ϋ>"+data[i].split('ϋ>')[1].split('</B>')[0]+"</B> ", " ϋ>res</B> ")
                         for ( let t of r.split(' ') ){
                             if(t.includes('res')){

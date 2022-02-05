@@ -53,36 +53,36 @@ fs.readFile('data.txt',async (err, data) => {
                 if ( percent < 50 && percent > 30 && data[i].length < 70) {
                     if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
                         console.log('\x1b[31m%s\x1b[0m', data[i].split('ϋ>')[1].split('</B>')[0])
-                        let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
+                        /*let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
                         for ( let t of r.split(' ') ){
                             if(t.includes('res')){
                                 console.log(r.split(' ').indexOf(t))
                             }
-                        }
+                        }*/
                     }
                 }
-                if( percent < 70 && data[i].length < 70 ){
+                else if( percent > 50 && percent < 70 && data[i].length < 70 ){
                     
                     if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
                         console.log('\x1b[33m%s\x1b[0m', data[i].split('ϋ>')[1].split('</B>')[0])
-                        let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
+                        /*let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
                         for ( let t of r.split(' ') ){
                             if(t.includes('res')){
                                 console.log(r.split(' ').indexOf(t))
                             }
-                        }
+                        }*/
                     }
                 }
-                if( data[i].length < 70 ){
+                else if( percent > 70 && data[i].length < 70 ){
                     
                     if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
                         console.log('\x1b[32m%s\x1b[0m', ">> "+data[i].split('ϋ>')[1].split('</B>')[0])
-                        let r = data[i].replace( " ϋ>"+data[i].split('ϋ>')[1].split('</B>')[0]+"</B> ", " ϋ>res</B> ")
+                        /*let r = data[i].replace( " ϋ>"+data[i].split('ϋ>')[1].split('</B>')[0]+"</B> ", " ϋ>res</B> ")
                         for ( let t of r.split(' ') ){
                             if(t.includes('res')){
                                 console.log(r.split(' ').indexOf(t))
                             }
-                        }
+                        }*/
                     }
                 }
                 i++

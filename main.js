@@ -7,6 +7,26 @@ const replaceAll = (str, cor) => {
     return data
 }
 
+const generateSentence = (data, color) => {
+    let sentence, sentence2, word;
+    sentence = data.split('ϋ>')
+    word = sentence[1]
+
+    sentence2 = word.split('</B>')
+    word = sentence2.shift()
+    sentence.slice(1, 0)
+
+    console.log(sentence[0] + color + word + '\x1b[0m' + sentence2[0] )
+
+    //console.log('\x1b[33m%s\x1b[0m', data[i].split('ϋ>')[1].split('</B>')[0])
+    /*let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
+    for ( let t of r.split(' ') ){
+        if(t.includes('res')){
+            console.log(r.split(' ').indexOf(t))
+        }
+    }*/
+}
+
 fs.readFile('data.txt',async (err, data) => {
     // transformic the buffer from the file to a string
     data = data.toString()
@@ -36,7 +56,7 @@ fs.readFile('data.txt',async (err, data) => {
     prompt.start();
     while (true){
         
-        await prompt.get(['sentence']).then((err, research) => {
+        await prompt.get(['sentence']).then( async (err, research) => {
             research = err.sentence.split(' ');
             i = 0
             while(i < data.length){
@@ -49,41 +69,29 @@ fs.readFile('data.txt',async (err, data) => {
                     }
                 }
                 
+                if (     percent < 50 &&
+                         percent > 30 &&
+                         data[i].length < 70 &&
+                         data[i].includes('ϋ>') &&
+                         data[i].includes('</B>') ){
 
-                if ( percent < 50 && percent > 30 && data[i].length < 70) {
-                    if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
-                        console.log('\x1b[31m%s\x1b[0m', data[i].split('ϋ>')[1].split('</B>')[0])
-                        /*let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
-                        for ( let t of r.split(' ') ){
-                            if(t.includes('res')){
-                                console.log(r.split(' ').indexOf(t))
-                            }
-                        }*/
-                    }
+                    generateSentence(data[i], '\x1b[31m')
                 }
-                else if( percent > 50 && percent < 70 && data[i].length < 70 ){
-                    
-                    if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
-                        console.log('\x1b[33m%s\x1b[0m', data[i].split('ϋ>')[1].split('</B>')[0])
-                        /*let r = data[i].replace( data[i].split('ϋ>')[1].split('</B>')[0], "res")
-                        for ( let t of r.split(' ') ){
-                            if(t.includes('res')){
-                                console.log(r.split(' ').indexOf(t))
-                            }
-                        }*/
-                    }
+                else if( percent > 50 &&
+                         percent < 70 && 
+                         data[i].length < 70  && 
+                         data[i].includes('ϋ>') && 
+                         data[i].includes('</B>') ){
+
+                    generateSentence(data[i], '\x1b[33m')
                 }
-                else if( percent > 70 && data[i].length < 70 ){
-                    
-                    if( data[i].includes('ϋ>') && data[i].includes('</B>') ){
-                        console.log('\x1b[32m%s\x1b[0m', " "+data[i].split('ϋ>')[1].split('</B>')[0])
-                        /*let r = data[i].replace( " ϋ>"+data[i].split('ϋ>')[1].split('</B>')[0]+"</B> ", " ϋ>res</B> ")
-                        for ( let t of r.split(' ') ){
-                            if(t.includes('res')){
-                                console.log(r.split(' ').indexOf(t))
-                            }
-                        }*/
-                    }
+                else if( 
+                         percent > 70 && 
+                         data[i].length < 70 && 
+                         data[i].includes('ϋ>') && 
+                         data[i].includes('</B>') ){
+
+                    generateSentence(data[i], '\x1b[32m')
                 }
                 i++
             }

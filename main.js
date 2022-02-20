@@ -78,7 +78,7 @@ fs.readFile('data.txt',async (err, data) => {
     
                     for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
                     
-                    if (     percent < 50 &&
+                    /*if (     percent < 50 &&
                              percent > 30 &&
                              data[i].length < 70 &&
                              data[i].includes('ϋ>') &&
@@ -86,7 +86,7 @@ fs.readFile('data.txt',async (err, data) => {
     
                         generateSentence(data[i], '\x1b[31m')
                     }
-                    else if( percent > 50 &&
+                    else*/ if( percent > 50 &&
                              percent < 70 && 
                              data[i].length < 70  && 
                              data[i].includes('ϋ>') && 

@@ -27,25 +27,31 @@ const generateSentence = (data, color) => {
     }*/
 }
 
+const FormatData = data => {
+        // unicode transformation
+        data = data.replaceAll('\\x27','\'');
+        data = data.replaceAll('\\x3CB','\ϋ');
+        data = data.replaceAll('\\x3E','\>');
+        data = data.replaceAll('\\x3C','\<');
+        data = data.replaceAll('\\x26','\&');
+        data = data.replaceAll('\\xA0','\ ');
+        data = data.replaceAll('\\x3D','\=');
+        data = data.replaceAll('&#x2011;','\-');
+    
+        // remove the header of the file
+        data = data.split('java.util.ArrayList')[1]
+        data = data.split('","')
+        while( !data[0].includes('com.woonoz.datamodel.learning.content.exercise.ClickWordsGroup') ) data.shift();
+        data.shift()
+
+        return data;
+}
+
 fs.readFile('data.txt',async (err, data) => {
     // transformic the buffer from the file to a string
     data = data.toString()
 
-    // unicode transformation
-    data = data.replaceAll('\\x27','\'');
-    data = data.replaceAll('\\x3CB','\ϋ');
-    data = data.replaceAll('\\x3E','\>');
-    data = data.replaceAll('\\x3C','\<');
-    data = data.replaceAll('\\x26','\&');
-    data = data.replaceAll('\\xA0','\ ');
-    data = data.replaceAll('\\x3D','\=');
-    data = data.replaceAll('&#x2011;','\-');
-
-    // remove the header of the file
-    data = data.split('java.util.ArrayList')[1]
-    data = data.split('","')
-    while( !data[0].includes('com.woonoz.datamodel.learning.content.exercise.ClickWordsGroup') ) data.shift();
-    data.shift()
+    data = FormatData(data);
 
     //we remove empty strings
     let i = 0;
@@ -68,7 +74,8 @@ fs.readFile('data.txt',async (err, data) => {
         'certe' : 'certes', // « certes »
         'hormi' : 'hormis', // « hormis »
         'parmis' : 'parmi', // « parmi »
-
+        'conjuguable' : 'conjugable', // « -gable » ou « -guable » ?
+        'inclu' : 'inclus', // « inclus », « incluse »
 
         // magasin et magazine
         'magasine' : 'magazine',
@@ -113,11 +120,21 @@ fs.readFile('data.txt',async (err, data) => {
         'intérressent' : 'intéressent',
         'inintérressant' : 'inintéressant',
         'inintérressants' : 'inintéressants',
+        
     }
     
     while (true){
         
         await prompt.get(['sentence']).then( async (r, e) => {
+
+            if(r.sentence.toLowerCase() == 'change data'){
+                fs.readFile('data.txt',async (err, data) => {
+                    data = data.toString()
+                    data = FormatData(data);
+                })
+                return;
+            }
+
             sentence = r.sentence.toLowerCase()
             research = r.sentence.split(' ');
             i = 0

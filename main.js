@@ -54,24 +54,24 @@ fs.readFile('data.txt',async (err, data) => {
     // to get user input
     const prompt = require('prompt');
     prompt.start();
+    
+    let dictionnary = {
+        'cauchemard' : 'cauchemar',
+        'connection' : 'connexion',
+        'déconnection' : 'déconnection'
+    }
+    
     while (true){
         
         await prompt.get(['sentence']).then( async (err, research) => {
             research = err.sentence.split(' ');
             i = 0
 
-            if (research.includes('cauchemard')){
-                research[research.indexOf('cauchemard')] = '\x1b[32m'+'cauchemar'+'\x1b[0m'
+            if (research.some(i => dictionnary[i] != undefined)){
+                for(let i=0; i<research.length; i++){
+                    (dictionnary[research[i]] != undefined) ? research[i] = '\x1b[32m'+ dictionnary[research[i]] +'\x1b[0m' : '';
+                }
                 console.log(research.join(' '))
-
-            } else if (research.includes('connection')){
-                research[research.indexOf('connection')] = '\x1b[32m'+'connexion'+'\x1b[0m'
-                console.log(research.join(' '))
-
-            } else if (research.includes('déconnection')){
-                research[research.indexOf('déconnection')] = '\x1b[32m'+'déconnexion'+'\x1b[0m'
-                console.log(research.join(' '))
-
             } else {
                 while(i < data.length){
                     let percent = 0, line = data[i].split(' ')

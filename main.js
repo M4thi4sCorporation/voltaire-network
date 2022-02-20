@@ -57,15 +57,23 @@ fs.readFile('data.txt',async (err, data) => {
 
     let dictionnary = {
         'cauchemard' : 'cauchemar',
+        'cauchemards' : 'cauchemars',
         'connection' : 'connexion',
         'déconnection' : 'déconnection',
         'dilemne' : 'dilemme',
+        'dilemnes' : 'dilemmes',
         'méchament' : 'méchamment',
         'languages' : 'langages',
         'language' : 'langage',
         'certe' : 'certes', // « certes »
+        'hormi' : 'hormis', // « hormis »
+        'parmis' : 'parmi', // « parmi »
+
+        // magasin et magazine
         'magasine' : 'magazine',
+        'magasines' : 'magazines',
         'magazin' : 'magasin',
+        'magazins' : 'magasins',
 
         // « -amment » ou « -emment » ?
         'apparement' : 'apparemment',
@@ -74,15 +82,45 @@ fs.readFile('data.txt',async (err, data) => {
         'évidement' : 'évidemment',
         'pertinamment' : 'pertinemment',
         'pertinament' : 'pertinemment',
-        'pertinement' : 'pertinemment'
+        'pertinement' : 'pertinemment',
+        
+        // « personnel », mais « national »
+        'nationnale' : 'nationale',
+        'nationnales' : 'nationales',
+        'régionnale' : 'régionale',
+        'régionnales' : 'régionales',
+        'personels' : 'personnels',
+        'personel' : 'personnel',
+        'professionelle' : 'professionnelle',
+        'professionelles' : 'professionnelles',
+        'professionel' : 'professionnel', 
+        'professionels' : 'professionnels',
+
+        // « intéresser »
+        'intérresser' : 'intéresser',
+        'intérressé' : 'intéressé',
+        'intérressés' : 'intéressés',
+        'désintéreesser' : 'désintéresser',
+        'désintéreessé' : 'désintéressé',
+        'désintéreessés' : 'désintéressés',
+        'intérressement' : 'intéressement',
+        'intérressements' : 'intéressements',
+        'intérrêt' : 'intérêt',
+        'intérrêts' : 'intérêts',
+        'intérresse' : 'intéresse',
+        'intérresses' : 'intéresses',
+        'intérressent' : 'intéressent',
+        'inintérressant' : 'inintéressant',
+        'inintérressants' : 'inintéressants'
     }
     
     while (true){
         
-        await prompt.get(['sentence']).then( async (err, research) => {
-            research = err.sentence.split(' ');
+        await prompt.get(['sentence']).then( async (r, e) => {
+            sentence = r.sentence.toLowerCase()
+            research = r.sentence.split(' ');
             i = 0
-
+            
             let regex = /[^a-zA-ZÁÀÂÄǍĂĀÃÅǺĄĆĊĈČÇÉÈĖÊËĚĔĒáàâäǎăāãçéèėêëěĕēIÍÌİÎÏǏĬĪĨĮỊÓÒÔÖǑŎŌÕŐỌØǾƠŒíìiîïǐĭīĩįịóòôöǒŏōõőọøǿơœÚÙÛÜǓŬŪŨŰŮŲỤƯ]+/g;
             if (research.some(i => dictionnary[i.replace(regex, '')] != undefined)){ // look into the dictionnary
                 for(let i=0; i<research.length; i++){
@@ -90,12 +128,19 @@ fs.readFile('data.txt',async (err, data) => {
                 }
                 console.log(research.join(' '))
                 
+            } else if ( // finançement
+                sentence.includes('ç') && 
+                sentence.at(sentence.indexOf('ç') + 1).match(/[eiy]/g)
+            ) {
+                let word = research.filter(i => i.includes('ç'))
+                console.log(sentence.replace(word, '\x1b[32m'+ word[0].replace('ç','c') +'\x1b[0m'))
+
             } else if ( // « Est-ce que la directrice est là ? », « La directrice est-elle là ? »
-                research.join(' ').toLowerCase().includes('est‑ce que') 
-                && (research.join(' ').toLowerCase().includes('il') ||
-                    research.join(' ').toLowerCase().includes('elle'))
+                sentence.toLowerCase().includes('est‑ce que') 
+                && (sentence.toLowerCase().includes('il') ||
+                sentence.toLowerCase().includes('elle'))
             ){
-                console.log(research.join(' ').toLowerCase().replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
+                console.log(sentence.toLowerCase().replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
             
             }else { // Look into the data file
                 while(i < data.length){

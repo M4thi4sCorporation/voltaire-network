@@ -64,6 +64,14 @@ fs.readFile('data.txt',async (err, data) => {
                 research[research.indexOf('cauchemard')] = '\x1b[32m'+'cauchemar'+'\x1b[0m'
                 console.log(research.join(' '))
 
+            } else if (research.includes('connection')){
+                research[research.indexOf('connection')] = '\x1b[32m'+'connexion'+'\x1b[0m'
+                console.log(research.join(' '))
+
+            } else if (research.includes('déconnection')){
+                research[research.indexOf('déconnection')] = '\x1b[32m'+'déconnexion'+'\x1b[0m'
+                console.log(research.join(' '))
+
             } else {
                 while(i < data.length){
                     let percent = 0, line = data[i].split(' ')

@@ -136,12 +136,17 @@ fs.readFile('data.txt',async (err, data) => {
                 console.log(sentence.replace(word, '\x1b[32m'+ word[0].replace('ç','c') +'\x1b[0m'))
 
             } else if ( // « Est-ce que la directrice est là ? », « La directrice est-elle là ? »
-                sentence.toLowerCase().includes('est‑ce que') 
-                && (sentence.toLowerCase().includes('il') ||
-                sentence.toLowerCase().includes('elle'))
+                sentence.includes('est‑ce que') 
+                && (sentence.includes('il') ||
+                sentence.includes('elle'))
             ){
-                console.log(sentence.toLowerCase().replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
+                console.log(sentence.replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
             
+            } else if ( // « une espèce de »
+                sentence.includes('espèce') &&
+                sentence.at(sentence.indexOf('espèce') - 2) != 'e'
+            ){
+                console.log(sentence.replace('un espèce', '\x1b[32m'+'une'+'\x1b[0m' + ' espèce'))
             }else { // Look into the data file
                 while(i < data.length){
                     let percent = 0, line = data[i].split(' ')

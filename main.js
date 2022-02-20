@@ -54,11 +54,27 @@ fs.readFile('data.txt',async (err, data) => {
     // to get user input
     const prompt = require('prompt');
     prompt.start();
-    
+
     let dictionnary = {
         'cauchemard' : 'cauchemar',
         'connection' : 'connexion',
-        'déconnection' : 'déconnection'
+        'déconnection' : 'déconnection',
+        'dilemne' : 'dilemme',
+        'méchament' : 'méchamment',
+        'languages' : 'langages',
+        'language' : 'langage',
+        'certe' : 'certes', // « certes »
+        'magasine' : 'magazine',
+        'magazin' : 'magasin',
+
+        // « -amment » ou « -emment » ?
+        'apparement' : 'apparemment',
+        'évidamment' : 'évidemment',
+        'évidament' : 'évidemment',
+        'évidement' : 'évidemment',
+        'pertinamment' : 'pertinemment',
+        'pertinament' : 'pertinemment',
+        'pertinement' : 'pertinemment'
     }
     
     while (true){
@@ -67,12 +83,21 @@ fs.readFile('data.txt',async (err, data) => {
             research = err.sentence.split(' ');
             i = 0
 
-            if (research.some(i => dictionnary[i] != undefined)){
+            let regex = /[^a-zA-ZÁÀÂÄǍĂĀÃÅǺĄĆĊĈČÇÉÈĖÊËĚĔĒáàâäǎăāãçéèėêëěĕēIÍÌİÎÏǏĬĪĨĮỊÓÒÔÖǑŎŌÕŐỌØǾƠŒíìiîïǐĭīĩįịóòôöǒŏōõőọøǿơœÚÙÛÜǓŬŪŨŰŮŲỤƯ]+/g;
+            if (research.some(i => dictionnary[i.replace(regex, '')] != undefined)){ // look into the dictionnary
                 for(let i=0; i<research.length; i++){
-                    (dictionnary[research[i]] != undefined) ? research[i] = '\x1b[32m'+ dictionnary[research[i]] +'\x1b[0m' : '';
+                    (dictionnary[research[i].replace(regex, '').toLowerCase()] != undefined) ? research[i] = '\x1b[32m'+ dictionnary[research[i].replace(regex, '').toLowerCase()] +'\x1b[0m' : '';
                 }
                 console.log(research.join(' '))
-            } else {
+                
+            } else if ( // « Est-ce que la directrice est là ? », « La directrice est-elle là ? »
+                research.join(' ').toLowerCase().includes('est‑ce que') 
+                && (research.join(' ').toLowerCase().includes('il') ||
+                    research.join(' ').toLowerCase().includes('elle'))
+            ){
+                console.log(research.join(' ').toLowerCase().replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
+            
+            }else { // Look into the data file
                 while(i < data.length){
                     let percent = 0, line = data[i].split(' ')
     

@@ -69,6 +69,7 @@ fs.readFile('data.txt',async (err, data) => {
         'hormi' : 'hormis', // « hormis »
         'parmis' : 'parmi', // « parmi »
 
+
         // magasin et magazine
         'magasine' : 'magazine',
         'magasines' : 'magazines',
@@ -111,7 +112,7 @@ fs.readFile('data.txt',async (err, data) => {
         'intérresses' : 'intéresses',
         'intérressent' : 'intéressent',
         'inintérressant' : 'inintéressant',
-        'inintérressants' : 'inintéressants'
+        'inintérressants' : 'inintéressants',
     }
     
     while (true){
@@ -127,27 +128,15 @@ fs.readFile('data.txt',async (err, data) => {
                     (dictionnary[research[i].replace(regex, '').toLowerCase()] != undefined) ? research[i] = '\x1b[32m'+ dictionnary[research[i].replace(regex, '').toLowerCase()] +'\x1b[0m' : '';
                 }
                 console.log(research.join(' '))
-                
-            } else if ( // finançement
-                sentence.includes('ç') && 
-                sentence.at(sentence.indexOf('ç') + 1).match(/[eiy]/g)
-            ) {
+            } else if (sentence.includes('ç') && sentence.at(sentence.indexOf('ç') + 1).match(/[eiy]/g)){
                 let word = research.filter(i => i.includes('ç'))
                 console.log(sentence.replace(word, '\x1b[32m'+ word[0].replace('ç','c') +'\x1b[0m'))
-
-            } else if ( // « Est-ce que la directrice est là ? », « La directrice est-elle là ? »
-                sentence.includes('est‑ce que') 
-                && (sentence.includes('il') ||
-                sentence.includes('elle'))
-            ){
-                console.log(sentence.replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))
-            
-            } else if ( // « une espèce de »
-                sentence.includes('espèce') &&
-                sentence.at(sentence.indexOf('espèce') - 2) != 'e'
-            ){
-                console.log(sentence.replace('un espèce', '\x1b[32m'+'une'+'\x1b[0m' + ' espèce'))
-            }else { // Look into the data file
+            } else if (sentence.includes('est‑ce que')&& (sentence.includes('il') ||sentence.includes('elle'))){console.log(sentence.replace('est‑ce que', '\x1b[32m'+'est‑ce que'+'\x1b[0m'))} else if (sentence.includes('espèce') && sentence.at(sentence.indexOf('espèce') - 2) != 'e')console.log(sentence.replace('un espèce', '\x1b[32m'+'une'+'\x1b[0m' + ' espèce'))
+            else if(sentence.includes('sans dessus dessous'))console.log(sentence.replace('sans dessus dessous', '\x1b[32m'+'sens dessus dessous'+'\x1b[0m'))
+            else if(sentence.includes('rénum')) console.log(sentence.replace('rénum', '\x1b[32m'+'rémun'+'\x1b[0m'))
+            else if(sentence.includes('chiffre d\'affaire')) console.log(sentence.replace('chiffre d\'affaire', '\x1b[32m'+'chiffre d\'affaires'+'\x1b[0m'))
+            else if(sentence.includes('ï') && sentence.at(sentence.indexOf('ï') - 1) == 'é') console.log(sentence.replace('éï', '\x1b[32m'+'éi'+'\x1b[0m'))
+            else { // Look into the data file
                 while(i < data.length){
                     let percent = 0, line = data[i].split(' ')
     

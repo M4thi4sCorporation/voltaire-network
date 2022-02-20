@@ -59,41 +59,43 @@ fs.readFile('data.txt',async (err, data) => {
         await prompt.get(['sentence']).then( async (err, research) => {
             research = err.sentence.split(' ');
             i = 0
-            while(i < data.length){
-                let percent = 0;
-                let line = data[i].split(' ')
 
-                for ( let term of research){
-                    if( line.includes(term) ){
-                        percent += 100 / research.length
+            if (research.includes('cauchemard')){
+                research[research.indexOf('cauchemard')] = '\x1b[32m'+'cauchemar'+'\x1b[0m'
+                console.log(research.join(' '))
+
+            } else {
+                while(i < data.length){
+                    let percent = 0, line = data[i].split(' ')
+    
+                    for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
+                    
+                    if (     percent < 50 &&
+                             percent > 30 &&
+                             data[i].length < 70 &&
+                             data[i].includes('ϋ>') &&
+                             data[i].includes('</B>') ){
+    
+                        generateSentence(data[i], '\x1b[31m')
                     }
+                    else if( percent > 50 &&
+                             percent < 70 && 
+                             data[i].length < 70  && 
+                             data[i].includes('ϋ>') && 
+                             data[i].includes('</B>') ){
+    
+                        generateSentence(data[i], '\x1b[33m')
+                    }
+                    else if( 
+                             percent > 70 && 
+                             data[i].length < 70 && 
+                             data[i].includes('ϋ>') && 
+                             data[i].includes('</B>') ){
+    
+                        generateSentence(data[i], '\x1b[32m')
+                    }
+                    i++
                 }
-                
-                if (     percent < 50 &&
-                         percent > 30 &&
-                         data[i].length < 70 &&
-                         data[i].includes('ϋ>') &&
-                         data[i].includes('</B>') ){
-
-                    generateSentence(data[i], '\x1b[31m')
-                }
-                else if( percent > 50 &&
-                         percent < 70 && 
-                         data[i].length < 70  && 
-                         data[i].includes('ϋ>') && 
-                         data[i].includes('</B>') ){
-
-                    generateSentence(data[i], '\x1b[33m')
-                }
-                else if( 
-                         percent > 70 && 
-                         data[i].length < 70 && 
-                         data[i].includes('ϋ>') && 
-                         data[i].includes('</B>') ){
-
-                    generateSentence(data[i], '\x1b[32m')
-                }
-                i++
             }
           })
 

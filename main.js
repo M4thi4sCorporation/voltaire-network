@@ -46,8 +46,16 @@ const FormatData = data => {
 
         return data;
 }
-
+fs.readFile('corrects.txt',async (err, corrects) => {
 fs.readFile('data.txt',async (err, data) => {
+    
+    corrects = corrects.toString().split('\n')
+    let correct2 = {};
+    for(let i=0;i<corrects.length;i++){
+        correct2[corrects[i].split('|')[0]] = corrects[i].split('|')[1]
+    }
+    corrects = correct2;
+
     // transformic the buffer from the file to a string
     data = data.toString()
 
@@ -126,19 +134,15 @@ fs.readFile('data.txt',async (err, data) => {
     while (true){
         
         await prompt.get(['sentence']).then( async (r, e) => {
-
-            if(r.sentence.toLowerCase() == 'change data'){
-                fs.readFile('data.txt',async (err, data) => {
-                    data = data.toString()
-                    data = FormatData(data);
-                })
-                return;
-            }
-
             sentence = r.sentence.toLowerCase()
             research = r.sentence.split(' ');
             i = 0
             
+            if(corrects[r.sentence] != undefined){
+                console.log(corrects[r.sentence].replace('<c>', '\x1b[32m').replace('</c>','\x1b[0m'))
+                return;
+            }
+
             let regex = /[^a-zA-ZÁÀÂÄǍĂĀÃÅǺĄĆĊĈČÇÉÈĖÊËĚĔĒáàâäǎăāãçéèėêëěĕēIÍÌİÎÏǏĬĪĨĮỊÓÒÔÖǑŎŌÕŐỌØǾƠŒíìiîïǐĭīĩįịóòôöǒŏōõőọøǿơœÚÙÛÜǓŬŪŨŰŮŲỤƯ]+/g;
             if (research.some(i => dictionnary[i.replace(regex, '')] != undefined)){ // look into the dictionnary
                 for(let i=0; i<research.length; i++){
@@ -189,4 +193,6 @@ fs.readFile('data.txt',async (err, data) => {
           })
 
     }
-})
+})})
+
+

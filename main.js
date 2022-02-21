@@ -40,7 +40,7 @@ const main = async () => {
             while(i < data.length){
                 let percent = 0, line = data[i].split(' ')
 
-                for ( let term of research) line.includes(term) ? percent += 100 / ((line.length + research.length) / 2): '';
+                for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
                 
                 if(  percent > 50 && percent < 60 ){
 
@@ -64,7 +64,7 @@ const main = async () => {
             for (const [element, result] of Object.entries(corrects)) {
                 let percent = 0, line = element
 
-                for ( let term of research) line.includes(term) ? percent += 100 / ((line.split(' ').length + research.length) / 2) : '';
+                for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
                 
                 if(  percent > 50 && percent < 75 ){
 

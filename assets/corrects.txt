@@ -255,3 +255,4 @@ Je ne comprends pas comment est‑ce que cet appareil marche.|Je ne comprends pa
 Alors, enfin du poil de la bête ?|Alors, <B>reprend‑on</B> enfin du poil de la bête ?
 Nous te soutiendrons, soit ta décision.|Nous te soutiendrons, <B>quelle</B> que soit ta décision.
 Est‑ce que tu penses que j'ai été trop  ?|Est‑ce que tu penses que j'ai été trop <B>exigeant</B> ?
+À 15 h 20, vous avez déjà rendez‑vous avec Mr Monceau.|À 15 h 20, vous avez déjà rendez‑vous avec <B>M.</B> Monceau.

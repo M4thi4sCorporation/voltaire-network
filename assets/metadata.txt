@@ -2756,7 +2756,7 @@ On ignore pour le moment <B>ce qui</B> a provoqué cette catastrophe.
 Il n'a pas dit <B>ce qu'</B>il avait l'intention de faire.
 Je ne sais pas du tout <B>où</B> cela va nous mener. 
 Je ne comprends pas <B>comment</B> cet appareil marche.
-Nous ne savons pas encore <B>quand</B> nous pourrons emménager.
+Nous ne savons pas encore <B>quand (clicker sur ect-ce que a droite)</B> nous pourrons emménager.
 Dis-moi <B>ce que</B> tu penses de ces deux projets.
 Je n'ai pas vraiment compris <B>ce qu'</B>il fallait faire.
 Ils m'ont demandé <B>ce que</B> j'avais préféré faire pendant ce stage.

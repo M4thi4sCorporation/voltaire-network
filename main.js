@@ -33,36 +33,57 @@ const main = async () => {
     while (true){
         
         await prompt.get(['sentence']).then( async (r, e) => {
-            sentence = r.sentence.toLowerCase()
+            sentence = r.sentence.toLowerCase();
             research = r.sentence.split(' ');
             let i = 0, j = 0;
-            
-            if(corrects[r.sentence] != undefined) console.log(corrects[r.sentence].replace('<c>', '\x1b[32m').replace('</c>','\x1b[0m'))
 
-            else { // Look into the data file
-                while(i < data.length){
-                    let percent = 0, line = data[i].split(' ')
+            while(i < data.length){
+                let percent = 0, line = data[i].split(' ')
 
-                    for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
-                    
-                    if(  percent > 50 && percent < 60 ){
+                for ( let term of research) line.includes(term) ? percent += 100 / (line.length + research.length) : '';
+                
+                if(  percent > 50 && percent < 60 ){
 
-                        generateSentence(data[i], '\x1b[31m');
-                        j++;
-                    }
-                    else if( percent > 60 && percent < 70 ){
-
-                        generateSentence(data[i], '\x1b[32m');
-                        j++;
-                    }
-                    else if(  percent > 70 ){
-
-                        generateSentence(data[i], '\x1b[32m');
-                        j++;
-                    }
-                    i++
+                    generateSentence(data[i], '\x1b[31m');
+                    j++;
                 }
+                else if( percent > 60 && percent < 70 ){
+
+                    generateSentence(data[i], '\x1b[32m');
+                    j++;
+                }
+                else if(  percent > 70 ){
+
+                    generateSentence(data[i], '\x1b[32m');
+                    j++;
+                }
+                i++
             }
+
+            i = 0
+            for (const [element, result] of Object.entries(corrects)) {
+                let percent = 0, line = element
+
+                for ( let term of research) line.includes(term) ? percent += 100 / (line.length + research.length) : '';
+                
+                if(  percent > 70 && percent < 75 ){
+
+                    generateSentence(result, '\x1b[31m');
+                    j++;
+                }
+                else if( percent > 75 && percent < 80 ){
+
+                    generateSentence(result, '\x1b[32m');
+                    j++;
+                }
+                else if(  percent > 80 ){
+
+                    generateSentence(result, '\x1b[32m');
+                    j++;
+                }
+                i++
+            }
+
             if( j == 0)console.log('\x1b[32m'+'Bonne Réponse'+ '\x1b[0m');
             console.log('')
         })

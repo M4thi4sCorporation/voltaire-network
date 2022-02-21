@@ -86,7 +86,7 @@ Ne me dîtes pas qu'il n'y en a plus !|Ne me <c>dites</c> pas qu'il n'y en a plu
 Ne vend‑t‑on pas parfois la peau de l'ours avant de l'avoir tué ?|Ne <c>vend‑on</c> pas parfois la peau de l'ours avant de l'avoir tué ?
 Dans la vitrine, ils avaient mis des parapluies roses bonbons.|Dans la vitrine, ils avaient mis des parapluies <c>rose bonbon</c>.
 Ces soi‑disant aventuriers n'ont jamais quitté leur ville natale.|<c>Bonne Réponse.</c>
-Depuis qu'ils ont eu ce différent, l'ambiance n'est plus la même.|Depuis qu'ils ont eu ce <c>différend</c<, l'ambiance n'est plus la même.
+Depuis qu'ils ont eu ce différent, l'ambiance n'est plus la même.|Depuis qu'ils ont eu ce <c>différend</c>, l'ambiance n'est plus la même.
 Est‑ce que je l'appelle maintenant ?|<c>Bonne Réponse.</c>
 Il a fallu que je verse un accompte.|Il a fallu que je verse un <c>acompte</c>.
 Au fond, je crois que je suis d'accord avec eux.|<c>Bonne Réponse.</c>
@@ -235,3 +235,19 @@ Il a commencé en fabricant des parapluies.|Il a commencé en <c>fabriquant</c> 
 Le différent qu'il a avec son collègue plombe l'ambiance de travail.|Le <c>différend</c> qu'il a avec son collègue plombe l'ambiance de travail.
 Où doivent‑ils aller pour ce faire vacciner ?|Où doivent‑ils aller pour <c>se</c> faire vacciner ?
 Le fonds ancien de la bibliothèque renferme des livres rares.|<c>Bonne Réponse.</c>
+Cette directrice a fait une école de commerce, à l'instar de celle‑ci, qui a fait des études de droit.|Cette directrice a fait une école de commerce, <c>tandis que</c> celle‑ci a fait des études de droit.
+À l'instar des rats, qui envahissent certaines villes, les éléphants d'Asie sont une espèce menacée.|<c>Contrairement aux</c> rats, qui envahissent certaines villes, les éléphants d'Asie sont une espèce menacée.
+Pourriez‑vous venir lundi à dix quinze ?|Pourriez‑vous venir lundi à dix <c>heures</c> quinze ?
+Mrs Duroc et Ségur viendront jeudi matin afin d'expertiser les dégâts.|<c>MM.</c> Duroc et Ségur viendront jeudi matin afin d'expertiser les dégâts.
+À l'instar de cette entreprise, qui risque de faire faillite, cette société est prospère.|<c>Contrairement à</c> cette entreprise, qui risque de faire faillite, cette société est prospère.
+soient les difficultés, je suis certain que nous parviendrons à les surmonter.|<c>Quelles que</c> soient les difficultés, je suis certain que nous parviendrons à les surmonter.
+En l', ils sont hésitants.|En l'<c>occurrence</c>, ils sont hésitants.
+Il aimerait bien perdre encore 1,5 .|Il aimerait bien perdre encore 1,5 <c>kilo</c>.
+Quarante bénévoles ont participé à ces collectes de déchets.|Quarante <c>mille</c> bénévoles ont participé à ces collectes de déchets.
+J'espère qu'ils vont accepter de nous prêter quatre‑ mille euros.|J'espère qu'ils vont accepter de nous prêter quatre‑<c>vingt</c> mille euros.
+Quelque soit le retard que nous avons pris, nous devons les livrer la semaine prochaine.|<c>Quel que</c> soit le retard que nous avons pris, nous devons les livrer la semaine prochaine.
+À l'instar de sa sœur, qui est étudiante en médecine, il fait des études littéraires.|<c>Contrairement</c> à sa sœur, qui est étudiante en médecine, il fait des études littéraires.
+Il vient de fêter ses ans.|Il vient de fêter ses <c>trente‑huit</c> ans.
+À l'instar des requins, qui sont des poissons, les dauphins sont des mammifères.|<c>Contrairement aux</c> requins, qui sont des poissons, les dauphins sont des mammifères.
+Il faut que nous rachetions des fruits - des pommes et des bananes, en l'.|Il faut que nous rachetions des fruits - des pommes et des bananes, en l'<c>occurrence</c>.
+À l'instar de cet arbre dont les feuilles tombent à l'automne, celui‑ci a un feuillage persistant.|<c>Contrairement à</c> cet arbre dont les feuilles tombent à l'automne, celui‑ci a un feuillage persistant.

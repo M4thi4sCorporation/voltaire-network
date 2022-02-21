@@ -11,7 +11,7 @@ Aller dans le **menu des niveaux**
 **Ensuite Cliquer sur le niveau voulu**  
 Cliquer sur la **3ème ligne** (normalement) appelée "WolLearningContentWebService"  
 Copier le contenu du sous-onglet **Réponse/Response** dans un fichier appelé **`data.txt`** dans le même dossier que le script  
-Lancer le script et **copier-coller** les phrases que vous donne l'exercice  
+Lancer le script avec `node main.js` dans le dossier cloner et **copier-coller** les phrases que vous donne l'exercice  
 
 ![netowrk selecting example](https://media.discordapp.net/attachments/750647043696885822/939579266868338718/unknown.png?width=1440&height=220)
 

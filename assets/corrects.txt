@@ -256,3 +256,16 @@ Alors, enfin du poil de la bête ?|Alors, <B>reprend‑on</B> enfin du poil de l
 Nous te soutiendrons, soit ta décision.|Nous te soutiendrons, <B>quelle</B> que soit ta décision.
 Est‑ce que tu penses que j'ai été trop  ?|Est‑ce que tu penses que j'ai été trop <B>exigeant</B> ?
 À 15 h 20, vous avez déjà rendez‑vous avec Mr Monceau.|À 15 h 20, vous avez déjà rendez‑vous avec <B>M.</B> Monceau.
+Sais‑tu qui j'ai vu ce matin ? Mr Grenelle, notre ancien voisin.|Sais‑tu qui j'ai vu ce matin ? <B>M.</B> Grenelle, notre ancien voisin.
+As‑tu lavé ma robe  ?|As‑tu lavé ma robe <B>bleu ciel</B> ?
+Pendant des années, ils se sont saignés aux veines.|Pendant des années, ils se sont saignés aux <B>quatre</B> veines.
+Mrs Denfert et Quinet ont repris le cabinet il y a deux ans.|<B>MM.</B> Denfert et Quinet ont repris le cabinet il y a deux ans.
+Je préviens immédiatement Mr Lourmel de votre arrivée.|Je préviens immédiatement <B>M.</B> Lourmel de votre arrivée.
+Mr Jourdain aimerait revoir tout cela avec vous.|<B>M.</B> Jourdain aimerait revoir tout cela avec vous.
+Mr Dugommier vient d'appeler, il risque d'avoir dix minutes de retard.|<B>M.</B> Dugommier vient d'appeler, il risque d'avoir dix minutes de retard.
+Mrs Péri et Maubourg sont arrivés il y a une heure.|<B>MM.</B> Péri et Maubourg sont arrivés il y a une heure.
+Pourquoi ne jamais tout de suite ?|Pourquoi ne <B>répond‑il</B> jamais tout de suite ?
+Vous pourrez ainsi tester le débit de votre .|Vous pourrez ainsi tester le débit de votre <B>connexion</B>.
+Ce cours d'eau n'est pas en été.|Ce cours d'eau n'est pas <B>navigable</B> en été.
+Tu la de ma part pour sa promotion.|Tu la <B>féliciteras</B> de ma part pour sa promotion.
+Qu'est‑ce qu'un réservoir larguable ?|Qu'est‑ce qu'un réservoir <B>largable</B> ?

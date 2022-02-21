@@ -42,18 +42,18 @@ const main = async () => {
 
                 for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
                 
-                if(  percent > 50 && percent < 60 ){
+                if( sentence.toLowerCase().includes(line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','')) || line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','').includes(sentence.toLowerCase()) ){
+
+                } else if(  percent > 50 && percent < 60 ){
 
                     generateSentence(data[i], '\x1b[31m');
                     j++;
                 }
                 else if( percent > 60 && percent < 70 ){
-
                     generateSentence(data[i], '\x1b[32m');
                     j++;
                 }
                 else if(  percent > 70 ){
-
                     generateSentence(data[i], '\x1b[32m');
                     j++;
                 }
@@ -65,22 +65,27 @@ const main = async () => {
                 let percent = 0, line = element
 
                 for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
-                
-                if(  percent > 50 && percent < 75 ){
+                if (percent > 50 ){
 
-                    generateSentence(result, '\x1b[31m');
-                    j++;
-                }
-                else if( percent > 75 && percent < 80 ){
+                    if( sentence.toLowerCase().includes(line.toLowerCase()) || line.toLowerCase().includes(sentence.toLowerCase()) ){
 
-                    generateSentence(result, '\x1b[32m');
-                    j++;
+                    } else if(  percent < 70 ){
+                    
+                        generateSentence(result, '\x1b[31m');
+                        j++;
+                    }
+                    else if( percent > 70 && percent < 80 ){
+    
+                        generateSentence(result, '\x1b[32m');
+                        j++;
+                    }
+                    else if(  percent > 80 ){
+    
+                        generateSentence(result, '\x1b[32m');
+                        j++;
+                    }
                 }
-                else if(  percent > 80 ){
 
-                    generateSentence(result, '\x1b[32m');
-                    j++;
-                }
                 i++
             }
 

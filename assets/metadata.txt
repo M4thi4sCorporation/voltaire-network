@@ -2748,13 +2748,13 @@ Nous aimerions que vous <B>envoyiez</B> ce message à nos clients.
 Il faut que vous <B>nettoyiez</B> la plaie avec soin.
 Quand nous étions enfants, nous nous <B>méfiions</B> de ce chien.
 Je me demande <B>ce que</B> je vais pouvoir lui répondre.
-Je ne sais plus du tout <B>où</B> j'ai rangé ça…
+Je ne sais plus du tout où <B>est‑ce que</B> j'ai rangé ça…
 Il se demande <B>ce qu'</B>il faut faire pour régler le problème.
-Je ne sais pas <B>où</B> je vais poser ces cartons.
-Il se demande par <B>où</B> il va passer ce matin.
+Je ne sais pas où <B>est‑ce qu</B> je vais poser ces cartons.
+Il se demande par où <B>est‑ce qu</B> il va passer ce matin.
 On ignore pour le moment <B>ce qui</B> a provoqué cette catastrophe.
 Il n'a pas dit <B>ce qu'</B>il avait l'intention de faire.
-Je ne sais pas du tout où <B> est‑ce que </B> cela va nous mener. 
+Je ne sais pas du tout <B>où</B> cela va nous mener. 
 Je ne comprends pas <B>comment</B> cet appareil marche.
 Nous ne savons pas encore <B>quand</B> nous pourrons emménager.
 Dis-moi <B>ce que</B> tu penses de ces deux projets.
@@ -2873,20 +2873,20 @@ Son témoignage s'est <B>révélé</B> faux.
 Il devait admettre que ses idées s'étaient <B>révélées</B> complètement fausses.
 Finalement, vous voyez, notre résultat <B>se révèle</B> exact.
 La déclaration de l'accusé s'est <B>révélée</B> fausse.
-Il faut <B>pallier cet</B> inconvénient au plus vite.
-Nous sommes ainsi parvenus à <B>pallier ce</B> problème.
-Comment allons-nous pouvoir <B>pallier ce</B> problème ?
-Nous avons fait tout ce que nous avons pu pour <B>pallier cette</B> crise.
-Ils se sont efforcés de <B>pallier ce</B> problème technique.
-Il a fallu <B>pallier notre</B> manque d'enthousiasme.
-Tout avait été prévu pour <B>pallier une</B> éventuelle défaillance du système.
-Ils essayaient de <B>pallier la</B> souffrance qu'ils voyaient partout.
-Nous ne savions pas du tout comment <B>pallier ce</B> problème technique.
-Ces bénévoles faisaient tout leur possible pour <B>pallier la</B> misère des habitants de ce pays.
-Nous devons trouver un moyen de <B>pallier la</B> baisse de la fréquentation.
-Chaque fois que j'ai ce problème, je <B>le pallie</B> en éteignant l'appareil et en le rallumant.
-Que devons-nous faire pour <B>pallier la</B> baisse des ventes ?
-Je fais des efforts pour <B>pallier ce</B> défaut, mais c'est difficile !
+Il faut pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)cet</B> inconvénient au plus vite.
+Nous sommes ainsi parvenus à pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)ce</B> problème.
+Comment allons-nous pouvoir pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)ce</B> problème ?
+Nous avons fait tout ce que nous avons pu pour pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)cette</B> crise.
+Ils se sont efforcés de pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)ce</B> problème technique.
+Il a fallu pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)notre</B> manque d'enthousiasme.
+Tout avait été prévu pour pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)une</B> éventuelle défaillance du système.
+Ils essayaient de pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)la</B> souffrance qu'ils voyaient partout.
+Nous ne savions pas du tout comment pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)ce</B> problème technique.
+Ces bénévoles faisaient tout leur possible pour pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)la</B> misère des habitants de ce pays.
+Nous devons trouver un moyen de pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)la</B> baisse de la fréquentation.
+Chaque fois que j'ai ce problème, je <B>le</B> pallie en éteignant l'appareil et en le rallumant.
+Que devons-nous faire pour pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)la</B> baisse des ventes ?
+Je fais des efforts pour pallier <B>(cliquer sur le mot entre pallier et le mot a gauche >)ce</B> défaut, mais c'est difficile !
 Elle <B>est allée</B> inspecter les travaux avec son équipe.
 Son fils avait de la fièvre, il <B>est</B> donc <B>allé</B> le chercher à l'école.
 Il <B>est allé</B> à la banque et est revenu ici vers 11 heures.
@@ -3306,20 +3306,20 @@ Ils passent leur temps <B>à</B> travailler, le concours approche…
 Elle avait réussi <B>à</B> les convaincre de baisser un peu le prix de leur maison.
 Il ne faut pas renoncer <B>à</B> ce projet.
 La collision entre les deux trains <B>a</B> été évitée de justesse.
-Je file <B>à</B> la pharmacie et je reviens !Bon, <B>où</B> ai-je bien pu mettre ce dossier ?
-Je ne sais pas encore <B>où</B> nous irons cet été.
-Il était incapable de travailler, dans l'état <B>où</B> il était.
-L'histoire est compliquée, par <B>où</B> commencer ?
+Je file <B>à</B> la pharmacie et je reviens !Bon, <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' ai-je bien pu mettre ce dossier ?
+Je ne sais pas encore <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' nous irons cet été.
+Il était incapable de travailler, dans l'état <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' il était.
+L'histoire est compliquée, par <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' commencer ?
 Je pense que nous irons les voir samedi <B>ou</B> dimanche.
-Ne te souviens-tu pas de cet hiver <B>où</B> il a fait si froid ?
-Je le cherche partout, savez-vous <B>où</B> il est ?
-Je n'ai pas compris <B>où</B> ils voulaient en venir.
-Nous pourrons y aller un jour <B>où</B> tu auras un peu de temps.
-Je glisse toujours une paire de chaussettes dans ma valise, au cas <B>où</B> !
-<B>Où</B> ai-je mis sa carte de visite ?
+Ne te souviens-tu pas de cet hiver <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' il a fait si froid ?
+Je le cherche partout, savez-vous <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' il est ?
+Je n'ai pas compris <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' ils voulaient en venir.
+Nous pourrons y aller un jour <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' tu auras un peu de temps.
+Je glisse toujours une paire de chaussettes dans ma valise, au cas <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' !
+<B>où (cliquer sur est-ce que si present)</B> est‑ce qu' ai-je mis sa carte de visite ?
 À mon avis, ça passe <B>ou</B> ça casse !
-C'est la ville <B>où</B> j'ai fait mes études.
-Il est arrivé au moment <B>où</B> nous nous y attendions le moins.
+C'est la ville <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' j'ai fait mes études.
+Il est arrivé au moment <B>où (cliquer sur est-ce que si present)</B> est‑ce qu' nous nous y attendions le moins.
 Il <B>n'y</B> a plus qu'à choisir les meubles pour la cuisine.
 <B>N'y</B> allez pas trop tard, si vous voulez avoir des places.
 Il faut faire les courses, il <B>n'y</B> a plus rien dans le frigo !

@@ -64,7 +64,7 @@ const main = async () => {
                 }
             }
             if( j == 0)console.log('\x1b[32m'+'Bonne Réponse'+ '\x1b[0m');
-        
+            console.log('')
         })
 
     }

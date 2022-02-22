@@ -50,42 +50,13 @@ const main = async () => {
                     j++;
                 }
                 else if( percent > 60 && percent < 70 ){
-                    generateSentence(data[i], '\x1b[32m');
+                    generateSentence(data[i], '\x1b[33m');
                     j++;
                 }
                 else if(  percent > 70 ){
                     generateSentence(data[i], '\x1b[32m');
                     j++;
                 }
-                i++
-            }
-
-            i = 0
-            for (const [element, result] of Object.entries(corrects)) {
-                let percent = 0, line = element
-
-                for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
-                if (percent > 50 ){
-
-                    if( sentence.toLowerCase().includes(line.toLowerCase()) || line.toLowerCase().includes(sentence.toLowerCase()) ){
-
-                    } else if(  percent < 70 ){
-                    
-                        generateSentence(result, '\x1b[31m');
-                        j++;
-                    }
-                    else if( percent > 70 && percent < 80 ){
-    
-                        generateSentence(result, '\x1b[32m');
-                        j++;
-                    }
-                    else if(  percent > 80 ){
-    
-                        generateSentence(result, '\x1b[32m');
-                        j++;
-                    }
-                }
-
                 i++
             }
 

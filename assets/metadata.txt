@@ -71,7 +71,6 @@
 <B>Ci-joint</B> les justificatifs demandés.
 <B>Ci-joint</B> les plans des futurs bureaux.
 <B>Comprend-il</B> à quel point c'est important ?
-<B>Comprend-il</B> Ã  quel point c'est important ?
 <B>Connaissais</B>-tu l'ancienne directrice commerciale ?
 <B>Contrairement aux</B> paroles, les écrits restent.
 <B>Contrairement aux</B> rats, qui envahissent certaines villes, les éléphants d'Asie sont une espèce menacée.
@@ -85,7 +84,7 @@
 <B>Crac</B> ! C'était ce que nous entendions quand nous marchions sur les brindilles.
 <B>Crac</B>, boum : il a trébuché et s'est étalé de tout son long !
 <B>Crains</B>-tu vraiment que ces clients ne signent pas le contrat ?
-<B>Descend-il</B> dans cet hÃ´tel, finalement ?
+<B>Descend-il</B> dans cet hà´tel, finalement ?
 <B>Descend-il</B> dans cet hôtel, finalement ?
 <B>Dites</B>-lui que je peux le voir demain matin.
 <B>Dites</B>-lui que nous pourrons être là-bas à 15 heures.
@@ -95,7 +94,6 @@
 <B>Dites</B>-moi, savez-vous où ils sont ?
 <B>Décontenancés</B> par la vie moderne, ces vieilles gens avaient parfois du mal à nous comprendre.
 <B>Dépêche</B>-toi, nous devons partir dans cinq minutes.
-<B>Détend-il</B> vraiment l'atmosphÃ¨re en disant cela ?
 <B>Détend-il</B> vraiment l'atmosphère en disant cela ?
 <B>Eh</B> bien, c'est dommage qu'ils ne puissent pas venir.
 <B>Eh</B> bien, comment allez-vous ce matin ?
@@ -233,7 +231,7 @@
 <B>Pourrais</B>-tu m'aider à installer l'imprimante ?
 <B>Pourrons</B>-nous en reparler lors de la prochaine assemblée ?
 <B>Prend-elle</B> le bus avec nous ?
-<B>Prend-elle</B> tout de mÃªme le temps de se reposer un peu ?
+<B>Prend-elle</B> tout de màªme le temps de se reposer un peu ?
 <B>Prend-elle</B> tout de même le temps de se reposer un peu ?
 <B>Prend-on</B> la bonne décision ?
 <B>Prendras</B>-tu le train ou l'avion, finalement ?
@@ -286,14 +284,11 @@
 <B>Quoi qu'</B>il en soit, cela ne nous semble pas primordial.
 <B>Quoi qu'</B>il en soit, cela peut attendre encore un peu.
 <B>Quoi qu'</B>il en soit, nous devons leur donner une réponse.
-<B>Quoiqu'</B>il ne dise rien, je sais trÃ¨s bien ce qu'il en pense.
 <B>Quoiqu'</B>il ne dise rien, je sais très bien ce qu'il en pense.
-<B>Quoiqu'</B>il ne soit pas trÃ¨s grand, ce jardin a du charme.
 <B>Quoiqu'</B>il ne soit pas très grand, ce jardin a du charme.
 <B>Quoiqu'</B>ils baissent le prix, cela reste cher.
 <B>Quoique</B> cela ne soit pas facile, nous allons tout faire pour y arriver.
 <B>Quoique</B> nous nous connaissions bien, nous continuons à nous vouvoyer.
-<B>Quoique</B> nous nous connaissions bien, nous continuons Ã  nous vouvoyer.
 <B>Rappelez</B> dans une heure, je pense qu'il sera rentré.
 <B>Rappelez</B>-moi dès que vous aurez mon message.
 <B>Recouvrerait</B>-il un jour la raison ? Les médecins ne pouvaient l'affirmer.
@@ -302,7 +297,6 @@
 <B>Redites</B>-moi votre nom, s'il vous plaît.
 <B>Rend-il</B> bien les clés demain ?
 <B>Reprend-on</B> bien à 14 heures, comme prévu ?
-<B>Reprend-on</B> bien Ã  14 heures, comme prévu ?
 <B>S'il</B> a encore de la fièvre demain, il n'ira pas travailler.
 <B>S'il</B> n'a pas le temps de le faire aujourd'hui, ce n'est pas grave.
 <B>S'ils</B> arrivent en avance, prévenez-moi tout de suite.
@@ -388,10 +382,8 @@ Alors qu'elle <B>agonisait</B>, les deux enfants tentaient de sauver la mouche p
 Alors, est-ce que tu vois son nom <B>sur</B> la liste ?
 Alors, que <B>répond-il</B> ?
 Alors, à quoi la panne était-elle <B>due</B> ?
-AprÃ¨s dix ans de dictature, le pays est <B>sens dessus dessous</B>.
-AprÃ¨s la fÃªte, ma maison était <B>sens dessus dessous</B>.
-AprÃ¨s le tremblement de terre, toute la région était <B>sens dessus dessous</B>.
-AprÃ¨s le virage, tu verras <B>une</B> espÃ¨ce de vieux bÃ¢timent Ã  droite.
+Après la fàªte, ma maison était <B>sens dessus dessous</B>.
+Après le virage, tu verras <B>une</B> espèce de vieux bà¢timent à droite.
 Après <B>force</B> séances chez le kinésithérapeute, je n'ai plus mal au dos.
 Après <B>force</B> épreuves, ils touchent enfin au but.
 Après avoir longuement réfléchi, elle a pris une <B>tout</B> autre décision.
@@ -441,7 +433,6 @@ Au cours de cette expédition polaire, les <B>incidents</B> ont été nombreux.
 Au dernier moment, il renonce à appuyer sur la <B>détente</B> et abaisse son arme.
 Au début de l'ouvrage, l'auteur <B>resitue</B> l'affaire dans son époque.
 Au début de sa carrière, cette artiste a été en <B>butte</B> aux attaques.
-Au début, cette activité n'était pas trÃ¨s <B>rémunératrice</B>.
 Au début, cette activité n'était pas très <B>rémunératrice</B>.
 Au début, j'ai été en <B>butte</B> aux moqueries : personne ne pensait que cela marcherait.
 Au fait, <B>vend-elle</B> sa voiture ?
@@ -524,7 +515,6 @@ Bien sûr, on ne devient pas <B>chef pilote</B> du jour au lendemain.
 Bon, <B>où</B> ai-je bien pu mettre ce dossier ?
 Bon, n'<B>aie</B> pas la grosse tête non plus !
 Bravo ! Vous êtes de vrais petits <B>cracks</B> en physique !
-C'est <B>une</B> espÃ¨ce de gris tirant sur le marron.
 C'est <B>une</B> espèce de gris tirant sur le marron.
 C'est <B>à</B> Avignon que nous aimerions vivre.
 C'est après bien des <B>péripéties</B> qu'Ulysse retrouve Pénélope.
@@ -547,7 +537,6 @@ C'est du vol, <B>ni</B> plus <B>ni</B> moins !
 C'est grâce au récipient <B>auquel il a donné son nom</B> qu'Eugène Poubelle, préfet de la Seine, est passé à la postérité.
 C'est important, il ne faut pas que vous <B>oubliiez</B> de le faire.
 C'est incroyable : ces deux montres sont à peine <B>distinguables</B>.
-C'est incroyable : ces deux montres sont Ã  peine <B>distinguables</B>.
 C'est l'anniversaire de <B>sa</B> fille, aujourd'hui.
 C'est l'histoire la plus incroyable que j'<B>aie</B> <B>jamais</B> entendue !
 C'est la plus belle surprise que l'on m'<B>ait jamais</B> faite !
@@ -566,7 +555,6 @@ C'est là <B>que</B> j'accroche toujours la clé de la cave.
 C'est là <B>que</B> nous allons, finalement, cet été : en Italie.
 C'est là <B>que</B> nous vivions, avant votre naissance.
 C'est ma part d'héritage, elle m'est <B>due</B>.
-C'est moi qui <B>dois</B> régler le problÃ¨me.
 C'est moi qui <B>dois</B> régler le problème.
 C'est mon prédécesseur qui a <B>pris l'initiative de</B> cette réforme.
 C'est pain <B>bénit</B>, ce but marqué à la 89<SUP>e</SUP> minute !
@@ -622,9 +610,8 @@ Candide est le personnage d'un conte philosophique <B>du même nom</B> écrit pa
 Cannelle, cumin, gingembre, <B>etc</B> Vous trouverez tout cela au fond du magasin.
 Ce <B>chef opérateur</B> a déjà reçu deux prix.
 Ce <B>cyclone</B> a dévasté toute la région.
-Ce <B>différend</B> ne doit pas nous empÃªcher de travailler en équipe.
+Ce <B>différend</B> ne doit pas nous empàªcher de travailler en équipe.
 Ce <B>différend</B> ne doit pas nous empêcher de travailler en équipe.
-Ce <B>fabricant</B> de chaussettes propose des modÃ¨les de trÃ¨s bonne qualité.
 Ce <B>fabricant</B> de chaussettes propose des modèles de très bonne qualité.
 Ce <B>fabricant</B> de jouets en bois est un véritable artiste.
 Ce <B>fabricant</B> de jouets n'utilise que des matériaux recyclables.
@@ -634,11 +621,11 @@ Ce <B>grill</B> à la sortie de la ville a beaucoup de succès.
 Ce <B>langage</B> est confus, il faut revoir tout cela.
 Ce <B>magazine</B> consacre une page entière à notre produit.
 Ce <B>satyre</B> m'espionnait pendant que je prenais ma douche !
-Ce <B>soi-disant</B> avocat n'avait en réalité aucun diplÃ´me.
+Ce <B>soi-disant</B> avocat n'avait en réalité aucun diplà´me.
 Ce <B>soi-disant</B> avocat n'avait en réalité aucun diplôme.
 Ce <B>soi-disant</B> expert en informatique n'y connaissait rien du tout.
 Ce <B>soi-disant</B> héritier a été rapidement démasqué.
-Ce <B>soi-disant</B> médecin n'avait pas le moindre diplÃ´me.
+Ce <B>soi-disant</B> médecin n'avait pas le moindre diplà´me.
 Ce <B>soi-disant</B> médecin n'avait pas le moindre diplôme.
 Ce <B>soi-disant</B> romancier n'aurait pas écrit une seule ligne de ce livre.
 Ce <B>travail</B> sera effectué en équipe.
@@ -653,7 +640,6 @@ Ce chef de projet est <B>exigeant</B> envers son équipe.
 Ce chien est capable de tendre l'une de ses pattes <B>avant</B> pour vous saluer !
 Ce chêne, comme ce platane, <B>a été planté</B> par mes grands-parents.
 Ce coffret contient six tasses à café <B>cerise</B>.
-Ce coffret contient six tasses Ã  café <B>cerise</B>.
 Ce coffret permettant de devenir un vrai petit chimiste leur a permis de faire des expériences <B>détonantes</B> !
 Ce collègue me <B>rebat</B> les oreilles de cette histoire.
 Ce comprimé se <B>dissout</B> en quelques secondes seulement.
@@ -695,7 +681,6 @@ Ce livre a été imprimé à quinze <B>mille</B> exemplaires.
 Ce magasin de souvenirs était bien <B>approvisionné</B>, j'ai acheté un tas de babioles !
 Ce magasin est petit, mais il est bien <B>approvisionné</B> : on y trouve tous les fromages que l'on veut !
 Ce magnifique musée ressemble à <B>une</B> espèce de vaisseau futuriste.
-Ce magnifique musée ressemble Ã  <B>une</B> espÃ¨ce de vaisseau futuriste.
 Ce matelas mesure quatre-<B>vingt</B>-dix centimètres de large.
 Ce matin, il a <B>recueilli</B> les dépositions des témoins.
 Ce matin, la directrice a adressé <B>force</B> félicitations à toute l'équipe.
@@ -715,7 +700,6 @@ Ce n'est <B>qu'en</B> fermant la porte qu'il s'est aperçu qu'il n'avait plus sa
 Ce n'est <B>qu'en</B> parlant que nous pourrons sortir de l'impasse.
 Ce n'est <B>qu'en</B> sortant du taxi qu'il s'en est aperçu.
 Ce n'est pas <B>aussi</B> urgent que je le pensais.
-Ce n'est pas la peine de changer <B>quoi que</B> ce soit, c'est trÃ¨s bien.
 Ce n'est pas la peine de changer <B>quoi que</B> ce soit, c'est très bien.
 Ce n'est pas le moment de partir : les réjouissances battent <B>leur</B> plein !
 Ce n'est pas moi qui le <B>dis</B>.
@@ -794,7 +778,6 @@ Ce travail est pour elle sans grande <B>difficulté</B>.
 Ce tremblement de terre a plongé toute la ville dans le <B>chaos</B>.
 Ce tueur en série torturait ses victimes jusqu'à ce qu'elles <B>agonisent</B>.
 Ce verbe est-il <B>conjugable</B> à tous les temps ?
-Ce verbe est-il <B>conjugable</B> Ã  tous les temps ?
 Ce viaduc est le plus haut que l'on <B>ait jamais</B> construit.
 Ce vieillard <B>décrépit</B> était autrefois un grand cascadeur.
 Ce vieux monsieur n'est pas <B>impotent</B> : il fait encore du vélo tous les jours.
@@ -832,10 +815,10 @@ Ces <B>martyrs</B> ont été tués au <span class=smallcaps>xvii<!-- smallcaps e
 Ces <B>quatre</B> vendeurs ont suivi cette formation.
 Ces <B>saynètes</B> avaient beaucoup plu au public.
 Ces <B>sept</B> tours datent des années 1970.
-Ces <B>soi-disant</B> cuisiniers ne savaient mÃªme pas faire cuire un Åuf.
+Ces <B>soi-disant</B> cuisiniers ne savaient màªme pas faire cuire un Åuf.
 Ces <B>soi-disant</B> cuisiniers ne savaient même pas faire cuire un œuf.
+Ces <B>soi-disant</B> héros étaient en réalité des là¢ches.
 Ces <B>soi-disant</B> héros étaient en réalité des lâches.
-Ces <B>soi-disant</B> héros étaient en réalité des lÃ¢ches.
 Ces <B>soi-disant</B> policiers étaient en réalité des voleurs.
 Ces <B>soi-disant</B> représentants étaient en réalité des cambrioleurs.
 Ces <B>soi-disant</B> spécialistes n'étaient que des charlatans.
@@ -859,7 +842,7 @@ Ces cartons pèsent trop <B>lourd</B>, je peux à peine les soulever.
 Ces cas doivent te sembler bien <B>banals</B> !
 Ces chaises ont été <B>créées</B> par ce célèbre couple d'architectes.
 Ces chapeaux étaient alors très appréciés par la <B>gent</B> masculine.
-Ces chaussettes gris <B>anthracite</B> sont en fil d'Ãcosse.
+Ces chaussettes gris <B>anthracite</B> sont en fil d'àcosse.
 Ces chaussettes gris <B>anthracite</B> sont en fil d'Écosse.
 Ces chaussures ont l'air trop <B>usées</B>, je ne peux plus les mettre.
 Ces chaussures sont usées, mais je n'arrive pas à les <B>jeter</B>.
@@ -906,7 +889,6 @@ Ces prélèvements sont <B>bimestriels</B>, tu ne seras donc débité que six fo
 Ces remarques de l'agent immobilier les ont <B>fait</B> réfléchir.
 Ces renseignements se sont <B>révélés</B> inexacts.
 Ces retards sont <B>dus</B> aux intempéries.
-Ces rideaux <B>verts</B> feront trÃ¨s bien dans le salon.
 Ces rideaux <B>verts</B> feront très bien dans le salon.
 Ces rideaux et cette table basse vont <B>égayer</B> le salon.
 Ces robots pourront-ils <B>résoudre</B> tous nos problèmes domestiques ?
@@ -923,7 +905,6 @@ Ces traits de peinture sur les arbres sont des <B>repères</B> pour les randonne
 Ces trois dernières années, ses revenus ont beaucoup <B>crû</B>.
 Ces trois piétons ont failli être <B>renversés</B> par une voiture.
 Ces tulipes <B>orange</B> sont déjà fanées.
-Ces tulipes <B>orange</B> sont déjÃ  fanées.
 Ces vieilles gens ne sont pas du tout <B>aigris</B>.
 Ces vilaines gens se sont <B>compromis</B> dans une sale affaire.
 Ces vêtements sont caractéristiques de ces deux <B>décennies</B> (années 1960 et 1970).
@@ -951,7 +932,6 @@ Cet article se trouve dans le numéro quatre <B>cent</B> de cette revue.
 Cet article, <B>l'as</B>-tu lu ?
 Cet article, qui ne cite pas ses sources, vise-t-il à <B>mystifier</B> le lecteur ?
 Cet artiste est connu pour ses dessins humoristiques, voire <B>satiriques</B>.
-Cet athlÃ¨te est impressionnant : il a l'air <B>infatigable</B> !
 Cet athlète est impressionnant : il a l'air <B>infatigable</B> !
 Cet automobiliste <B>prétend</B> qu'il était prioritaire.
 Cet avion est le plus rapide que l'on <B>ait jamais</B> conçu.
@@ -1046,7 +1026,6 @@ Cette jeune chercheuse est promise au plus brillant <B>avenir</B>.
 Cette jeune femme est <B>encline</B> à l'empathie.
 Cette jeune fille est <B>encline</B> à aider les autres.
 Cette jeune stagiaire connaissait son sujet à <B>fond</B>.
-Cette jeune stagiaire connaissait son sujet Ã  <B>fond</B>.
 Cette lessive n'est pas <B>aussi</B> efficace que le dit la publicité.
 Cette lotion purifiante est destinée aux peaux à tendance <B>acnéique</B>.
 Cette machine à café est visiblement <B>hors</B> d'usage.
@@ -1157,8 +1136,8 @@ Comment résumer en cinq minutes une <B>discussion</B> qui a duré plus d'une he
 Comment se distinguer <B>parmi</B> tant de candidats ?
 Comment se manifeste une allergie aux <B>protéines</B> de lait de vache ?
 Comment sortir de ce cruel <B>dilemme</B> ?
+Comment trouves-tu ces chaussures <B>noires</B>, à droite, à cà´té des bottes ?
 Comment trouves-tu ces chaussures <B>noires</B>, à droite, à côté des bottes ?
-Comment trouves-tu ces chaussures <B>noires</B>, Ã  droite, Ã  cÃ´té des bottes ?
 Comment trouves-tu cette robe sans <B>manches</B> ?
 Comment vivaient nos ancêtres, vers cinq <B>mille</B> avant Jésus-Christ ?
 Comment évaluer les <B>répercussions</B> de votre décision ?
@@ -1203,12 +1182,11 @@ Dans ce texte, nous étudierons la <B>gradation</B> des arguments employés par 
 Dans ce théâtre se jouent des tragédies, des comédies et des <B>saynètes</B>.
 Dans ces villes, il est interdit de jeter les mégots sur la <B>voie</B> publique.
 Dans cet appartement, les gris <B>clairs</B> se marient bien avec le ton chaud du parquet.
-Dans cet hÃ´tel, nous ne mettons que des draps <B>blancs</B>.
+Dans cet hà´tel, nous ne mettons que des draps <B>blancs</B>.
 Dans cet hôtel, il n'y avait aucune <B>connexion</B> à Internet.
 Dans cet hôtel, nous ne mettons que des draps <B>blancs</B>.
 Dans cet organisme prestigieux, on trouve un <B>aréopage</B> de scientifiques.
 Dans cet ouvrage, les nombres sont écrits en <B>toutes lettres</B>.
-Dans cet établissement, les élÃ¨ves portaient tous des uniformes <B>bleus</B>.
 Dans cet établissement, les élèves portaient tous des uniformes <B>bleus</B>.
 Dans cette affaire, les enjeux <B>pécuniaires</B> étaient immenses.
 Dans cette boutique, les articles ne sont pas <B>banals</B>.
@@ -1293,7 +1271,7 @@ Depuis plusieurs mois, il se <B>désintéresse</B> totalement de cela.
 Depuis qu'elle s'est <B>fait</B> opérer de la hanche, elle peut de nouveau nager.
 Depuis qu'elle s'est <B>fait</B> opérer, elle ne porte plus de lunettes.
 Depuis qu'il vit dans cette grande ville, mon cousin ne circule qu'<B>à</B> vélo.
-Depuis qu'ils ont eu ce <B>différend</B>, l'ambiance n'est plus la mÃªme.
+Depuis qu'ils ont eu ce <B>différend</B>, l'ambiance n'est plus la màªme.
 Depuis qu'ils ont eu ce <B>différend</B>, l'ambiance n'est plus la même.
 Depuis quand le petit <B>État</B> de Monaco existe-t-il ?
 Depuis que cette guerre a éclaté, la <B>conjoncture</B> internationale a changé.
@@ -1573,7 +1551,6 @@ Envoyez-moi le livre, je me mettrai <B>tout de suite</B> à la traduction.
 Es-tu sûr que ces bâtons de dynamite ne peuvent pas <B>détoner</B> ?
 Est-ce bien toi qui <B>as</B> ouvert l'agence, hier ?
 Est-ce bien toi qui <B>vas</B> les chercher tout à l'heure ?
-Est-ce bien toi qui <B>vas</B> les chercher tout Ã  l'heure ?
 Est-ce bien toi qui t'en <B>charges</B> ?
 Est-ce de lui <B>que</B> vous parliez, tout à l'heure ?
 Est-ce le Brésil ou l'Italie qui <B>a</B> gagné la finale, cette année-là ?
@@ -1625,7 +1602,6 @@ Faire bonne <B>chère</B> ne me motive plus : je préfère les nourritures de l'
 Fait-il encore <B>partie</B> de cette association ?
 Faites attention, nous avons vu <B>çà</B> et là des oursins.
 Fallait-il faire confiance à ces <B>soi-disant</B> experts ?
-Fallait-il faire confiance Ã  ces <B>soi-disant</B> experts ?
 Faut-il craindre de nouvelles épidémies de <B>dysenterie</B> ?
 Faut-il que je te <B>parle</B> dans une autre langue pour que tu comprennes ?
 Faut-il que nous <B>rayions</B> les mentions inutiles ?
@@ -1725,13 +1701,11 @@ Il a commencé en <B>fabriquant</B> des parapluies.
 Il a commencé sa carrière en étant <B>développeur</B>, puis il a monté son entreprise.
 Il a continué à faire le pitre pour que sa petite sœur <B>rie</B> encore.
 Il a de l'énergie à revendre : on dirait qu'il est <B>infatigable</B> !
-Il a de l'énergie Ã  revendre : on dirait qu'il est <B>infatigable</B> !
 Il a dit qu'il ne pouvait pas compter sur nous, que nous ne le comprenions jamais, <B>etc</B>
 Il a décidé de poser le moins de questions <B>possible</B>.
 Il a enfilé un pantalon propre et, cinq minutes après, s'est <B>resali</B> en jouant dans le jardin.
 Il a escroqué plusieurs personnes en <B>se</B> faisant passer pour l'un de nos agents.
 Il a eu un <B>différend</B> avec eux à propos des délais de livraison.
-Il a eu un <B>différend</B> avec eux Ã  propos des délais de livraison.
 Il a fait cela à <B>ses</B> risques et périls.
 Il a fait le plus gros de son <B>chiffre d'affaires</B> ces trois derniers mois.
 Il a fait les quatre <B>cents</B> coups dans sa jeunesse.
@@ -1760,7 +1734,6 @@ Il a semblé <B>à demi convaincu</B> par ma démonstration.
 Il a serré son frère dans <B>ses</B> bras avant de partir.
 Il a sonné <B>si tôt</B> hier matin que je n'étais pas encore habillé.
 Il a soupiré durant toute la réunion : était-ce bien <B>séant</B> ?
-Il a toujours été <B>une</B> espÃ¨ce d'ange gardien pour moi.
 Il a toujours été <B>une</B> espèce d'ange gardien pour moi.
 Il a toujours été très habile de <B>ses</B> mains et a décidé de devenir ébéniste.
 Il a téléphoné à ses parents pour <B>leur</B> annoncer l'heureuse nouvelle.
@@ -1791,7 +1764,6 @@ Il avait toujours été solitaire, et le peu d'amis qu'il avait lui <B>suffisaie
 Il conviendra de s'adresser au plus vite <B>auxdites</B> autorités compétentes.
 Il devait admettre que ses idées s'étaient <B>révélées</B> complètement fausses.
 Il devait aller les voir ce matin, <B>or</B> il est encore là.
-Il devait y avoir <B>une</B> espÃ¨ce de faux contact.
 Il devait y avoir <B>une</B> espèce de faux contact.
 Il devrait vous <B>envoyer</B> cela en fin de journée.
 Il dit qu'il est resté chez lui ce soir-là, <B>or</B> un témoin l'a vu sortir de l'immeuble.
@@ -1832,7 +1804,6 @@ Il faudra des mois, <B>voire</B> des années pour reconstruire la ville.
 Il faudra que nous nous <B>concertions</B>.
 Il faudra veiller à l'<B>homogénéité</B> des équipes commerciales.
 Il faudra verser un <B>acompte</B> à la commande.
-Il faudra verser un <B>acompte</B> Ã  la commande.
 Il faudrait qu'il <B>ait</B> le devis avant la fin de la semaine.
 Il faudrait que je fasse du sport, <B>or</B> je n'ai jamais le temps…
 Il faudrait que vous <B>rappeliez</B> demain matin.
@@ -1866,7 +1837,6 @@ Il faut que je fasse cela <B>ces</B> jours-ci.Le <B>magasin</B> sera ouvert le d
 Il faut que je range mon armoire, mes affaires sont <B>sens dessus dessous</B>.
 Il faut que je termine tout cela avant de partir <B>en vacances</B>.
 Il faut que l'on <B>ait</B> aussi une photo de lui.
-Il faut que notre <B>chiffre d'affaires</B> progresse au deuxiÃ¨me trimestre.
 Il faut que notre <B>chiffre d'affaires</B> progresse au deuxième trimestre.
 Il faut que nous <B>ayons</B> fini les travaux avant la rentrée.
 Il faut que nous <B>remédiions</B> à cette situation au plus vite.
@@ -2032,7 +2002,7 @@ Il vous suffit d'imprimer les billets <B>ci-joints</B>.
 Il vérifie qu'il a bien fermé sa porte à clé, par <B>acquit</B> de conscience.
 Il y a <B>presque autant</B> de monde que la dernière fois.
 Il y a <B>quelque</B> temps, j'allais régulièrement à la piscine, après le travail.Le temps et les soucis avaient fait de lui un vieillard <B>décrépit</B>.
-Il y a <B>une</B> espÃ¨ce de petit local oÃ¹ l'on peut mettre les vélos.
+Il y a <B>une</B> espèce de petit local oà¹ l'on peut mettre les vélos.
 Il y a <B>une</B> espèce de petit local où l'on peut mettre les vélos.
 Il y a cinquante ans, ce lycée était réservé à la <B>gent</B> féminine.
 Il y a de nombreux débouchés, ce n'est pas du tout une <B>voie</B> de garage.
@@ -2040,7 +2010,6 @@ Il y a de nouveau un problème de <B>connexion</B>.
 Il y a dix ans, j'aurais pu l'acheter, mais pas dans la <B>conjoncture</B> actuelle.
 Il y a déjà dix chaises, essayons <B>d'en</B> mettre deux autres.
 Il y a eu <B>davantage</B> de visiteurs cette année.
-Il y a eu en fait <B>une</B> espÃ¨ce de malentendu.
 Il y a eu en fait <B>une</B> espèce de malentendu.
 Il y a eu plusieurs coups d'<B>État</B> dans ce pays.
 Il y a six <B>employés</B> : trois femmes et trois hommes.
@@ -2096,7 +2065,6 @@ Ils achètent la maison que nous avons <B>vu</B> construire il y a cinq ans.
 Ils affirment que ce logiciel <B>est</B> révolutionnaire.
 Ils aimeraient bien voyager pendant six mois, <B>voire</B> une année.
 Ils avaient déjà eu un <B>différend</B> il y a quelques années.
-Ils avaient déjÃ  eu un <B>différend</B> il y a quelques années.
 Ils avaient pris pour des fantômes de <B>banals</B> draps qui séchaient sur un fil.
 Ils avaient rendez-vous ce matin-<B>là</B> avec l'adjointe au maire.
 Ils commencent <B>à</B> installer les tables.
@@ -2122,7 +2090,6 @@ Ils n'auraient pas pu faire cela <B>tout</B> seuls en si peu de temps.
 Ils n'auront ainsi <B>aucuns</B> frais de déplacement.
 Ils n'avaient pas d'autre <B>choix</B> : ils devaient escalader cette montagne.
 Ils n'ont pas encore mis le chauffage, <B>quoiqu'</B>il commence à faire froid.
-Ils n'ont pas encore mis le chauffage, <B>quoiqu'</B>il commence Ã  faire froid.
 Ils n'ont pas hésité à <B>s'entraider</B>, ce qui leur a permis de parvenir à ce beau résultat.
 Ils n'ont pas pu embarquer dans l'avion <B>parce qu'</B>il y a eu un problème technique.
 Ils n'ont pas toujours vécu dans l'aisance, ils ont même eu de graves soucis <B>pécuniaires</B>.
@@ -2222,12 +2189,10 @@ Ils sont très <B>exigeants</B> sur ce point.
 Ils sont très déçus <B>par ce que</B> les repreneurs leur ont dit.
 Ils sont venus tous les <B>cinq</B>, finalement.
 Ils vendront probablement l'appartement après que nous <B>aurons</B> déménagé.
-Ils veulent organiser <B>une</B> espÃ¨ce de concours.
 Ils veulent organiser <B>une</B> espèce de concours.
 Ils viendront demain pour <B>se</B> faire une idée exacte de la situation.
 Ils vivent à dix <B>mille</B> kilomètres de chez nous.
 Ils vont essayer de les <B>réparer</B> au plus vite.
-Ils voulaient fonder <B>une</B> espÃ¨ce de comité.
 Ils voulaient fonder <B>une</B> espèce de comité.
 Ils étaient <B>censés</B> venir hier.
 Ils étaient <B>presque arrivés</B> quand l'orage a éclaté.
@@ -2285,8 +2250,6 @@ J'ai découvert cette charmante auberge en <B>naviguant</B> sur Internet.
 J'ai découvert récemment le thé <B>japonais</B>.
 J'ai déposé les cadeaux sous le sapin, les enfants ne se sont <B>doutés</B> de rien.
 J'ai dû rassurer mon frère : « Non, je t'assure, à trente ans tu n'es vraiment pas <B>décrépit</B> ! »
-J'ai entendu <B>une</B> espÃ¨ce d'énorme bruit métallique.
-J'ai entendu <B>une</B> espÃ¨ce de bruit sec.
 J'ai entendu <B>une</B> espèce d'énorme bruit métallique.
 J'ai entendu <B>une</B> espèce de bruit sec.
 J'ai essayé de <B>bâiller</B> discrètement en tournant un peu la tête…
@@ -2320,7 +2283,7 @@ J'ai oublié mon permis de conduire, avez-vous le <B>vôtre</B> ?
 J'ai passé l'âge d'être en <B>butte</B> à tes leçons de morale !
 J'ai passé trois heures à ranger la maison : c'était le <B>chaos</B> !
 J'ai peur que vous n'<B>ayez</B> commis un impair en lui posant cette question.
-J'ai peut-Ãªtre un peu de monnaie au <B>fond</B> de mon sacâ¦
+J'ai peut-àªtre un peu de monnaie au <B>fond</B> de mon sacâ¦
 J'ai peut-être un peu de monnaie au <B>fond</B> de mon sac…
 J'ai posté toutes les lettres, <B>hormis</B> celle-ci.
 J'ai pris la clé de la réserve, je <B>la</B> rapporte dans cinq minutes !
@@ -2382,7 +2345,7 @@ J'aperçus dans le salon quelques tableaux accrochés <B>çà</B> et là.
 J'apporte les <B>merguez</B> et la salade. À table !
 J'arrive ! Je <B>descends</B> dans une minute !
 J'arrête, c'est trop <B>fatigant</B> !
-J'attends de connaÃ®tre le <B>chiffre d'affaires</B> de leur cabinet.
+J'attends de connaà®tre le <B>chiffre d'affaires</B> de leur cabinet.
 J'attends de connaître le <B>chiffre d'affaires</B> de leur cabinet.
 J'attends que la <B>conjoncture</B> soit plus favorable pour monter mon entreprise.
 J'avais l'impression d'avoir la gorge <B>tout</B> irritée.
@@ -2394,7 +2357,6 @@ J'avais vraiment l'impression de compter pour peu de <B>chose</B>.
 J'emploie quand même beaucoup plus souvent le mot « aéroport » que le mot « <B>aréopage</B> » !
 J'en ai <B>vu</B>, de beaux bateaux, lors de cette course.
 J'en profite pour lire les <B>magazines</B>.
-J'espÃ¨re que cette activité sera plus <B>rémunératrice</B>.
 J'espère ne jamais être devant un tel <B>dilemme</B>.
 J'espère qu'il nous <B>saura</B> gré de tout ce que nous avons fait pour lui.
 J'espère qu'ils vont accepter de nous prêter quatre-<B>vingt</B> mille euros.
@@ -2423,7 +2385,7 @@ Je <B>peux</B> me renseigner, si vous le souhaitez.
 Je <B>pronostique</B> la victoire de cette équipe !
 Je <B>recouds</B> les boutons de mon manteau.
 Je <B>rectifierai</B> le texte dès demain matin.
-Je <B>serais</B> trÃ¨s contente si je pouvais vendre mon appartement Ã  ce prix-lÃ .
+Je <B>serais</B> très contente si je pouvais vendre mon appartement à ce prix-là .
 Je <B>serais</B> très contente si je pouvais vendre mon appartement à ce prix-là.
 Je <B>serais</B> très contente si je pouvais vendre mon appartement à ce prix-là.J'ai trouvé cette lettre au <B>fond</B> de ce tiroir.
 Je <B>souhaiterais</B> que cela soit fait dès que possible.
@@ -2435,7 +2397,6 @@ Je bondis de joie en apercevant la cheminée <B>d'où</B> sortait une épaisse f
 Je cherche la recette des croissants de <B>lune</B>, ces biscuits à la noisette.
 Je cherche trois comédiens pour interpréter une <B>saynète</B> que j'ai écrite.
 Je cherche un moyen de régler ce <B>différend</B> à l'amiable.
-Je cherche un moyen de régler ce <B>différend</B> Ã  l'amiable.
 Je cherche une maison à louer cet été sur la <B>côte</B>.
 Je compte sur vous, je ne veux pas que vous le <B>criiez</B> sur les toits.
 Je continue à faire la fête tous les soirs, aux <B>dépens</B> de mon sommeil.
@@ -2523,7 +2484,7 @@ Je me suis vite aperçu que son amitié était <B>intéressée</B>.
 Je mesure 1,72 <B>mètre</B>.
 Je mets tout de suite la lettre sous <B>enveloppe</B> et je la poste.
 Je mets à peu <B>près</B> trente minutes pour rentrer chez moi.
-Je n'<B>oublierais</B> peut-Ãªtre rien si je faisais une liste.
+Je n'<B>oublierais</B> peut-àªtre rien si je faisais une liste.
 Je n'<B>oublierais</B> peut-être rien si je faisais une liste.
 Je n'accepte pas que tu m'<B>agonisses</B> d'injures !
 Je n'ai aucune preuve, mais en mon <B>for</B> intérieur je suis convaincu de sa culpabilité.
@@ -2609,7 +2570,6 @@ Je pensais y aller deux fois par semaine, mais les <B>trois quarts</B> du temps 
 Je pense qu'<B>on</B> ne va pas tarder à y aller.
 Je pense qu'il faut terminer <B>par ce que</B> vous jugez le plus important.
 Je pense qu'il nous faut dix rouleaux de papier peint, <B>voire</B> onze.
-Je pense qu'il y a eu <B>une</B> espÃ¨ce de malentendu.
 Je pense qu'il y a eu <B>une</B> espèce de malentendu.
 Je pense que ce conflit n'est pas <B>près</B> de se terminer.
 Je pense que nous irons les voir samedi <B>ou</B> dimanche.
@@ -2735,7 +2695,7 @@ L'affaire est complexe : j'<B>étudie</B> le dossier depuis trois jours.
 L'affaire semblait compromise <B>lorsque Assia</B> a eu cette idée de génie.
 L'affaire était bien plus complexe que nous ne l'avions <B>pensé</B> d'abord.
 L'agence sera fermée <B>jusqu'à</B> mardi.
-L'agence sera fermée du 25 juillet au 15 aoÃ»t <B>inclus</B>.
+L'agence sera fermée du 25 juillet au 15 aoà»t <B>inclus</B>.
 L'agence sera fermée du 25 juillet au 15 août <B>inclus</B>.
 L'agent immobilier <B>attend</B> les clients devant la maison.
 L'alarme s'était <B>entendue</B> à l'autre bout de la résidence.
@@ -2793,7 +2753,6 @@ L'intérieur de ma voiture n'est pas toujours impeccable, <B>tant</B> s'en faut 
 L'opération est inévitable : il n'y a pas d'autre <B>possibilité</B>.
 L'orateur s'est dirigé vers la tribune et a <B>entamé</B> son discours.
 L'original et la copie sont à peine <B>distinguables</B>.
-L'original et la copie sont Ã  peine <B>distinguables</B>.
 L'ours n'<B>hiberne</B> pas : sa température reste relativement stable et il peut être facilement réveillé.
 L'une des pattes <B>arrière</B> de mon chien est un peu plus courte que l'autre.
 L'usine <B>d'où</B> sort ce modèle tourne actuellement à plein régime.
@@ -2827,7 +2786,7 @@ La <B>Lune</B> a inspiré à ce réalisateur un film de science-fiction.
 La <B>nervosité</B> de certains candidats était visible.
 La <B>rivalité</B> entre les deux vendeurs sautait aux yeux.
 La <B>rédactrice en chef</B> relit avec soin l'éditorial.
-La <B>rémunération</B> n'est pas la mÃªme selon les échelons.
+La <B>rémunération</B> n'est pas la màªme selon les échelons.
 La <B>rémunération</B> n'est pas la même selon les échelons.
 La <B>satire</B> est aussi un genre littéraire.
 La <B>session</B> est la période pendant laquelle cette prestigieuse assemblée se réunit pour délibérer.
@@ -2945,7 +2904,7 @@ La quatrième et la cinquième <B>manche</B> ont été palpitantes.
 La question de la fécondation in vitro <B>ressortit</B> à la fois à la médecine et à l'éthique.
 La recherche médicale avance, mais on ne croise pas tous les jours des <B>Pasteurs</B> !
 La responsable et son équipe définissent <B>ensemble</B> les objectifs à atteindre.
-La riviÃ¨re est trop basse pour Ãªtre <B>navigable</B>.
+La rivière est trop basse pour àªtre <B>navigable</B>.
 La rivière a <B>débordé</B> pendant la nuit.
 La rivière est trop basse pour être <B>navigable</B>.
 La rocade est <B>tout</B> embouteillée, ce matin.
@@ -2984,7 +2943,6 @@ La veille, ils avaient eu une violente <B>discussion</B>.
 La vendeuse a dit à ces clientes qu'elle revenait dans un instant et qu'elle serait alors <B>tout</B> à elles.
 La ville a été <B>recréée</B> sur des ruines.
 La ville semblait encore <B>tout</B> endormie.
-La ville, aprÃ¨s tous ces bombardements, est <B>sens dessus dessous</B>.
 La ville, après tous ces bombardements, est <B>sens dessus dessous</B>.
 La voisine semblait <B>tout</B> énervée. Que s'était-il passé ?
 La voiture <B>d'où</B> elle est sortie est repartie aussitôt.
@@ -2995,7 +2953,6 @@ La vue du sommet a <B>ranimé</B> les randonneurs, qui marchaient depuis plusieu
 Le <B>chef cuisinier</B> a imaginé ce nouveau plat.
 Le <B>chiffre d'affaires</B> de cette jeune société est impressionnant.
 Le <B>conseil</B> d'administration se réunira le 20 décembre.
-Le <B>différend</B> qu'il a avec son collÃ¨gue plombe l'ambiance de travail.
 Le <B>différend</B> qu'il a avec son collègue plombe l'ambiance de travail.
 Le <B>développement</B> de cette bactérie est à l'origine de l'intoxication.
 Le <B>foie</B> est-il l'organe le plus volumineux du corps humain ?
@@ -3157,7 +3114,7 @@ Le vendeur, dans ce cas, doit-il bien rembourser l'<B>acompte</B> ?
 Le vendredi, le secrétariat ferme à seize <B>heures</B>.
 Le vent a <B>ranimé</B> l'incendie dans la pinède.
 Le verbe « pleuvoir » n'est <B>conjugable</B> qu'à la troisième personne.
-Le verbe Â« pleuvoir Â» n'est <B>conjugable</B> qu'Ã  la troisiÃ¨me personne.
+Le verbe Â« pleuvoir Â» n'est <B>conjugable</B> qu'à la troisième personne.
 Le vieil homme aimait faire bonne <B>chère</B>, entouré de toute sa famille.
 Le vieil homme s'<B>assoyait</B> souvent dans un fauteuil près de la cheminée.
 Le vieillard, <B>impotent</B>, ne pouvait plus quitter son lit.
@@ -3230,7 +3187,6 @@ Les coccinelles sont de petits insectes généralement <B>rouge et noir</B>.
 Les comédiens sont presque prêts : ils <B>revêtent</B> leurs costumes.
 Les conducteurs de ces autos tamponneuses ne cherchent pas vraiment à éviter les <B>collisions</B> !
 Les consignes de <B>sécurité</B> sont affichées dans le couloir.
-Les cratÃ¨res sont facilement <B>distinguables</B> sur cette photo.
 Les cratères sont facilement <B>distinguables</B> sur cette photo.
 Les créateurs de parfums sont appelés des <B>nez</B>.
 Les derniers coursiers <B>passent</B> à 19 h 30.
@@ -3251,7 +3207,6 @@ Les deux pays ont enfin <B>entamé</B> le dialogue.
 Les deux randonneuses étaient <B>à demi mortes</B> de froid.
 Les deux sœurs étaient <B>enclines</B> à la gaieté.
 Les deux voisins vont tenter de régler ce <B>différend</B> à l'amiable.
-Les deux voisins vont tenter de régler ce <B>différend</B> Ã  l'amiable.
 Les dindons sont-ils des <B>volatiles</B> ?
 Les dirigeants de l'entreprise se sont visiblement <B>préparés</B> au pire.
 Les dirigeants des deux clubs sont soupçonnés de <B>collusion</B>.
@@ -3303,9 +3258,8 @@ Les manifestants ont interrompu la <B>session</B> de l'assemblée délibérante.
 Les mariés s'<B>assoiront</B> ici, avec leurs témoins.
 Les modifications <B>susdites</B> devront être mises en place dans les plus brefs délais.
 Les moines venaient de relire l'Évangile selon <B>saint Luc</B>.
-Les murs <B>blanc cassé</B> de la chambre venaient d'Ãªtre repeints.
+Les murs <B>blanc cassé</B> de la chambre venaient d'àªtre repeints.
 Les murs <B>blanc cassé</B> de la chambre venaient d'être repeints.
-Les murs <B>crÃ¨me</B> contribuent Ã  l'élégance du salon.
 Les murs <B>crème</B> contribuent à l'élégance du salon.
 Les murs étaient <B>décrépis</B>, la façade a dû être ravalée.
 Les médecins sont tenus au secret <B>professionnel</B>.
@@ -3429,7 +3383,6 @@ Lorsque nous avons participé à cette course l'été dernier, nous sommes arriv
 Lorsque nous avons recueilli ce chien perdu, on lui voyait les <B>côtes</B>.
 Lorsque nous sommes rentrés, nous avons jeté nos affaires <B>çà</B> et là.
 Lorsque vous éprouvez cette sensation, respirez à <B>fond</B>.
-Lorsque vous éprouvez cette sensation, respirez Ã  <B>fond</B>.
 Lorsque « <B>vingt </B>» et « <B>cent </B>» sont des adjectifs numéraux ordinaux, c'est-à-dire des abréviations de « vingtième » et de « centième », ils sont invariables. Il faut donc écrire « les années quatre-vingt », « la page trois cent », « le numéro cent quatre-vingt », etc
 Louis XIV aurait <B>agonisé</B> durant une semaine avant de pousser son dernier soupir.
 Louis XIV aurait prononcé cette phrase : « L'<B>État</B>, c'est moi. »
@@ -3493,7 +3446,6 @@ Merci <B>de</B> nous avoir aidés à déménager !
 Mes amis et moi aimions nous réfugier dans ce petit café après les cours : c'était notre <B>repaire</B> !
 Mes amis que j'ai <B>aidés</B> à déménager la semaine dernière m'ont invité à dîner.
 Mes amis vivent à Londres depuis deux ans et ils <B>s'y</B> plaisent beaucoup.
-Mes collÃ¨gues et moi n'avons jamais eu de véritable <B>différend</B>.
 Mes collègues et moi aimerions bien devenir des <B>cracks</B> en orthographe !
 Mes collègues et moi n'avons jamais eu de véritable <B>différend</B>.
 Mes collègues ont organisé cette fête à mon <B>intention</B>.
@@ -3509,8 +3461,8 @@ Mes parents ont réussi à <B>résoudre</B> leurs problèmes de voiture.
 Mes petits-enfants se passionnent en ce moment pour les camions, les tracteurs, les pelleteuses, <B>etc</B>
 Metz, Nancy, Strasbourg : c'est dans l'<B>Est</B> que j'ai passé mes premières années.
 Mieux vaut ne pas être <B>invalide</B> pour gravir l'Everest !
+Moi qui <B>pensais</B> que ce serait facile à monterâ¦
 Moi qui <B>pensais</B> que ce serait facile à monter…
-Moi qui <B>pensais</B> que ce serait facile Ã  monterâ¦
 Moi qui ne <B>voulais</B> pas me faire remarquer, c'est raté !
 Moi vivant, il ne remettra plus jamais les pieds <B>céans</B> !
 Moi, sortir de <B>céans</B> ? Pas question !
@@ -3531,7 +3483,6 @@ Moins de deux minutes lui <B>suffisent</B> pour prendre sa douche.
 Moins de deux siècles <B>se sont écoulés</B> depuis cette sinistre affaire.
 Mon <B>Dieu</B>, ce n'est pas vrai !
 Mon <B>Dieu</B>, tu m'as fait peur !
-Mon arriÃ¨re-grand-pÃ¨re gagnait sa vie en <B>fabriquant</B> et en réparant des outils.
 Mon arrière-grand-mère n'était pas <B>encline</B> à la nostalgie.
 Mon arrière-grand-père gagnait sa vie en <B>fabriquant</B> et en réparant des outils.
 Mon associé et moi nous sommes <B>rendu</B> compte que notre projet n'était pas viable.
@@ -3579,12 +3530,10 @@ N'<B>aie</B> pas peur, tout va bien se passer.
 N'<B>hésite</B> pas à lui poser la question, elle est bilingue.
 N'<B>oublie</B> pas de prendre ton passeport, cette fois !
 N'as-tu pas déjà deux sacs <B>marron</B> ?
-N'as-tu pas déjÃ  deux sacs <B>marron</B> ?
 N'as-tu pas entendu la tempête qu'il y a <B>eu</B> cette nuit ?
 N'en rajoutons pas, trop d'excuses <B>semblerait hypocrite</B>.
 N'entrez pas <B>nu-pieds</B> dans la cuisine, je viens de casser un verre !
 N'est-ce pas toi qui <B>as</B> dit cela tout à l'heure ?
-N'est-ce pas toi qui <B>as</B> dit cela tout Ã  l'heure ?
 N'est-ce pas un peu son <B>fonds</B> de commerce ?
 N'est-il pas <B>censé</B> répondre au téléphone ?
 N'hésitez pas <B>à venir</B>, si vous êtes là samedi.
@@ -3598,7 +3547,6 @@ N'était-il pas <B>censé</B> faire le point avec nous ce matin ?
 Napoléon Bonaparte est-il arrivé au pouvoir par un coup d'<B>État</B> ?
 Ne <B>penses</B>-tu pas qu'il pourrait le comprendre ?
 Ne <B>perd-il</B> pas son temps à essayer de les convaincre ?
-Ne <B>perd-il</B> pas son temps Ã  essayer de les convaincre ?
 Ne <B>pouvais</B>-tu pas essayer de désamorcer le conflit ?
 Ne <B>va</B> pas chercher midi à quatorze heures !
 Ne <B>vend-on</B> pas parfois la peau de l'ours avant de l'avoir tué ?
@@ -3611,7 +3559,6 @@ Ne me <B>dites</B> pas qu'il n'y en a plus !
 Ne mettons pas <B>tous</B> nos œufs dans le même panier.
 Ne perdons pas de temps, nous avons beaucoup <B>à faire</B> ce matin.
 Ne pourrions-nous pas essayer de régler ce <B>différend</B> à l'amiable ?
-Ne pourrions-nous pas essayer de régler ce <B>différend</B> Ã  l'amiable ?
 Ne prenez pas de <B>caféine</B> si vous vous sentez déjà nerveux !
 Ne reste pas <B>nu-tête</B> sous ce soleil de plomb !
 Ne t'<B>inquiète</B> pas, je faisais souvent cette erreur moi aussi !
@@ -3637,7 +3584,6 @@ Notre <B>magasin</B> sera fermé du 2 au 23 août.
 Notre <B>tâche</B> est de soutenir les projets comme celui-ci.
 Notre bonhomme de neige est en train de fondre à <B>vue</B> d'œil !
 Notre budget n'est pas <B>extensible</B>.
-Notre chef de projet nous a lancé <B>une</B> espÃ¨ce de défi.
 Notre chef de projet nous a lancé <B>une</B> espèce de défi.
 Notre chien a trois ans, et le <B>vôtre</B> ?
 Notre fils est né hier à 4 h 30, et le <B>vôtre</B> ?
@@ -3782,7 +3728,6 @@ Nous en sommes arrivés à la même conclusion, à peu de <B>chose</B> près.
 Nous entendions <B>çà</B> et là des grenouilles coasser.
 Nous espérons que cette médiation ne se <B>conclura</B> pas par un nouvel échec.
 Nous essayons d'aller nager tous les <B>dimanches</B>.
-Nous essayons de satisfaire aux <B>exigences</B> de notre clientÃ¨le.
 Nous essayons de satisfaire aux <B>exigences</B> de notre clientèle.
 Nous habitons tout <B>près</B> de cette place.
 Nous habitons à la campagne, à deux kilomètres de la zone <B>industrielle</B>.
@@ -3892,7 +3837,6 @@ On a eu beau mettre les suspects sur le <B>gril</B>, aucun d'eux n'a avoué.
 On a vu ce chanteur dans <B>force</B> émissions de télévision.
 On aurait dit un jour sans <B>fin</B>.
 On confond souvent le <B>chiffre d'affaires</B> et le résultat net.
-On dirait <B>une</B> espÃ¨ce de gros lézard.
 On dirait <B>une</B> espèce de gros lézard.
 On dirait qu'il ne <B>s'en</B> rend pas compte.
 On dirait que ce chiot a décidé de faire le plus de bêtises <B>possible</B>…
@@ -3935,7 +3879,7 @@ Oui, cela <B>peut être</B> fait en deux heures.
 Oui, ces deux couleurs <B>détonnent</B>, mais cela m'est égal !
 Oui, enfin, il ne faut pas exagérer : ce n'est tout de même pas la <B>panacée</B> !
 Oui, je <B>maintiens</B> mes accusations.
-OÃ¹ ai-je bien pu ranger ces serviettes <B>bleues</B> ?
+Oà¹ ai-je bien pu ranger ces serviettes <B>bleues</B> ?
 Où <B>est</B> le dossier de ce client ?
 Où <B>penses</B>-tu partir en vacances cet été ?
 Où ai-je bien pu ranger ces serviettes <B>bleues</B> ?
@@ -4145,7 +4089,6 @@ Quand le signal a retenti, les coureurs se sont <B>élancés</B> sur la piste.
 Quand nous avons commencé, nous ne <B>publiions</B> que trente livres par an.
 Quand nous étions enfants, nous nous <B>méfiions</B> de ce chien.
 Quand on a versé un <B>acompte</B>, peut-on renoncer à son achat ?
-Quand on a versé un <B>acompte</B>, peut-on renoncer Ã  son achat ?
 Quand on conduit, il est recommandé de faire une <B>pause</B> toutes les deux heures.
 Quand son premier film est sorti, ce réalisateur a été en <B>butte</B> à de violentes critiques.
 Quand sont apparus les panneaux <B>rouge et blanc</B> indiquant les sens interdits ?
@@ -4257,7 +4200,6 @@ S'il l'avait pu, il <B>fût</B> parti tout de suite.
 S'il le faut, j'y <B>retournerai</B> demain matin.
 S'il pouvait nous écrire, ne <B>fût</B>-ce que quelques lignes, cela nous rassurerait.
 S'il y avait eu d'autres enfants, la fillette ne se <B>fût</B> pas ennuyée.
-S'ils acceptent ma proposition, je me <B>mettrai</B> au travail dÃ¨s lundi.
 S'ils acceptent ma proposition, je me <B>mettrai</B> au travail dès lundi.
 S'ils n'ont pas fait bonne <B>chère</B> dans ce restaurant réputé, c'est à désespérer !
 Sa <B>cote</B> de popularité était en baisse depuis plusieurs mois.
@@ -4322,7 +4264,6 @@ Si ce soir tu me demandais de te rejoindre au bout du monde, j'<B>accourrais</B>
 Si cela se reproduit, nous vous <B>exclurons</B> trois jours.
 Si cela se reproduit, vous aurez <B>affaire</B> à moi !
 Si cette maison était à vendre, j'<B>adorerais</B> pouvoir l'acheter.
-Si cette maison était Ã  vendre, j'<B>adorerais</B> pouvoir l'acheter.
 Si Dick Fosbury a disparu de la scène internationale, le saut <B>qui porte son nom</B> conserve de nombreux adeptes.
 Si elle avait pu prendre un autre train, elle ne <B>fût</B> pas restée une minute de plus.
 Si elle l'avait pu, elle <B>fût</B> restée encore quelques jours.
@@ -4330,18 +4271,14 @@ Si elle m'appelait maintenant, je n'hésiterais pas une seconde : j'<B>accourrai
 Si elle n'avait pas fait le premier pas, <B>eût</B>-il osé lui parler ?
 Si elle subissait cette opération, la jeune fille <B>recouvrerait</B>-elle vraiment la vue ?
 Si j'ai un peu de temps tout à l'heure, je lui <B>téléphonerai</B>.
-Si j'ai un peu de temps tout Ã  l'heure, je lui <B>téléphonerai</B>.
 Si je faisais du sport, <B>recouvrerais</B>-je plus facilement mon souffle après avoir monté l'escalier ?
 Si je ne sors pas trop tard, j'<B>irai</B> faire les courses.
 Si je peux faire <B>quoi que</B> ce soit pour les aiderâ¦
 Si je peux faire <B>quoi que</B> ce soit pour les aider…
-Si je pouvais revenir en arriÃ¨re, j'<B>agirais</B> autrement.
 Si je pouvais revenir en arrière, j'<B>agirais</B> autrement.
-Si je prends un taxi, je <B>serai</B> peut-Ãªtre Ã  l'heure.
 Si je prends un taxi, je <B>serai</B> peut-être à l'heure.
 Si l'on convertit trois <B>cent</B> mille roubles en euros, combien cela fait-il ?
 Si l'on me proposait d'aller travailler à Lisbonne, je <B>sauterais</B> sur l'occasion.
-Si l'on me proposait d'aller travailler Ã  Lisbonne, je <B>sauterais</B> sur l'occasion.
 Si les campagnes continuent à se dépeupler, de nombreux villages risquent d'<B>agoniser</B>.
 Si les taux baissent, nous <B>renégocierons</B> notre prêt immobilier.
 Si nous avions su cela <B>plus tôt</B>, nous n'y serions jamais allés.
@@ -4352,7 +4289,7 @@ Si on t'avait dit cela, qu'en <B>conclurais</B>-tu ?
 Si tu <B>peux</B> me renvoyer tout cela lundi, c'est parfait !
 Si tu <B>plies</B> ton bras, est-ce que cela te fait mal ?
 Si tu <B>étais</B> à ma place, que ferais-tu ?
-Si tu as besoin de <B>quoi que</B> ce soit, tu sais oÃ¹ est mon bureau.
+Si tu as besoin de <B>quoi que</B> ce soit, tu sais oà¹ est mon bureau.
 Si tu as besoin de <B>quoi que</B> ce soit, tu sais où est mon bureau.
 Si tu l'appelles, il <B>accourra</B>, j'en suis sûr !
 Si tu pouvais te charger de cette affaire, je t'en <B>saurais</B> gré.
@@ -4365,7 +4302,6 @@ Si vous <B>contrefaites</B> des produits, vous commettez une infraction.
 Si vous <B>contrefaites</B> une nouvelle fois vos bulletins de notes, vous serez renvoyé.
 Si vous <B>satisfaites</B> à tous leurs désirs, la situation risque de devenir ingérable.
 Si vous avez besoin de <B>quoi que</B> ce soit, n'hésitez pas à nous le dire.
-Si vous avez besoin de <B>quoi que</B> ce soit, n'hésitez pas Ã  nous le dire.
 Si vous avez l'<B>occasion</B> de passer dans le coin, venez nous voir !
 Si vous me <B>contredisez</B> dès que je prends la parole, le débat risque de durer longtemps.
 Si vous me <B>contredisez</B> sans cesse, nous n'arriverons à rien.
@@ -4380,7 +4316,6 @@ Six mois <B>auparavant</B>, tout semblait pourtant marcher comme sur des roulett
 Sois prudent, ne <B>va</B> pas te casser une jambe !
 Son <B>exigence</B> est parfois excessive.
 Son bureau est au <B>fond</B> du couloir, à droite.
-Son bureau est au <B>fond</B> du couloir, Ã  droite.
 Son dernier argument est de loin le plus <B>convaincant</B>.
 Son dernier film n'a pas eu beaucoup de succès, <B>tant</B> s'en faut !
 Son dernier roman s'est fait <B>massacrer</B> par les critiques.
@@ -4391,7 +4326,6 @@ Son Excellence est <B>arrivée</B> et vous attend dans le salon.
 Son fils avait de la fièvre, il <B>est</B> donc <B>allé</B> le chercher à l'école.
 Son intention était en réalité <B>tout</B> autre.
 Son parcours <B>professionnel</B> n'est pas banal.
-Son pÃ¨re était un <B>fabricant</B> de meubles.
 Son père était un <B>fabricant</B> de meubles.
 Son réveil sonna, mais il ne se leva pas <B>tout de suite</B>.
 Son sourire n'était-il pas <B>sceptique</B> ?
@@ -4418,7 +4352,6 @@ Sur ces deux drapeaux figure un croissant de <B>lune</B>.
 Sur cette photo, on dirait que j'ai les yeux <B>pervenche</B>.
 Sur cette photo, on peut voir deux <B>Bretonnes</B> portant le costume traditionnel.
 Sur cette pièce de 20 francs datant de 1853, Napoléon III est représenté <B>nu-tête</B>.
-Sur cette Ã®le, les maisons ont en général des volets <B>verts</B>.
 Sur cette île, la chaleur était plus étouffante que nous ne l'avions <B>imaginé</B>.
 Sur cette île, les bleus <B>azur</B> du ciel et de l'océan semblent se confondre.
 Sur cette île, les maisons ont en général des volets <B>verts</B>.
@@ -4438,12 +4371,11 @@ Tiens, les <B>Martin</B> ont déjà fermé leurs volets.
 Tiens, tiens, ton nez s'allonge, tu n'es <B>rien de moins</B> qu'un menteur !
 Tintin serait-il le premier homme à avoir marché sur la <B>Lune</B> ?
 Toi qui <B>adores</B> l'orthographe et la grammaire, peux-tu m'aider ?
-Toi qui <B>as</B> passé ce diplÃ´me, as-tu fait comme cela ?
+Toi qui <B>as</B> passé ce diplà´me, as-tu fait comme cela ?
 Toi qui <B>as</B> passé ce diplôme, as-tu fait comme cela ?
 Toi qui <B>habites</B> dans ce quartier, qu'en penses-tu ?
 Toi qui <B>habites</B> dans ce quartier, qu'en penses-tu ?Les cambrioleurs ont laissé la maison <B>sens dessus dessous</B>.
 Toi qui y <B>es</B> déjà allé, qu'en penses-tu ?
-Toi qui y <B>es</B> déjÃ  allé, qu'en penses-tu ?
 Tokyo ? C'est là <B>que</B> mes associés vont en séminaire la semaine prochaine.La ville de San Francisco se trouve-t-elle bien à l'<B>ouest</B> des États-Unis ?
 Tournez à droite, <B>tout de suite</B> après le pont.
 Tous ces immeubles qui se sont <B>construits</B> en quelques années ont beaucoup changé le quartier.
@@ -4590,7 +4522,6 @@ Voici le plan de <B>financement</B> de ce projet.
 Voici le tarif pour la <B>pose</B> de la moquette dans votre chambre.
 Voici les factures que nous n'avons pas encore <B>réglées</B>.
 Voici les grandes étapes du <B>développement</B> d'un embryon.
-Voici les riviÃ¨res <B>navigables</B> dans notre région.
 Voici les rivières <B>navigables</B> dans notre région.
 Voici les étapes pour la <B>pose</B> du papier peint.
 Voici les œuvres que nous avons <B>réussi</B> à sauver.
@@ -4622,7 +4553,6 @@ Vous avez beau faire, vous ne <B>satisfaites</B> jamais tout le monde.
 Vous changez d'avis et vous vous <B>dédisez</B> de votre promesse.
 Vous devez conserver avec soin ces documents <B>officiels</B>.
 Vous devez déposer les objets métalliques sur ce plateau, montre <B>incluse</B>.
-Vous devez lire jusqu'au quatriÃ¨me chapitre <B>inclus</B>.
 Vous devez lire jusqu'au quatrième chapitre <B>inclus</B>.
 Vous devrez <B>accueillir</B> les visiteurs à l'entrée du parc et vérifier leurs billets.
 Vous devrez <B>bien sûr</B> être toujours respectueux avec eux.
@@ -4633,7 +4563,6 @@ Vous me le <B>dites</B> maintenant, mais c'est un peu tard.
 Vous ne dormez pas assez, aux <B>dépens</B> de votre santé.
 Vous ne me facilitez pas la <B>tâche</B>, vous deux !
 Vous pourrez ainsi bénéficier <B>d'avantages</B> fiscaux.
-Vous pourrez voir ici les <B>chiffres d'affaires</B> des dix derniÃ¨res années.
 Vous pourrez voir ici les <B>chiffres d'affaires</B> des dix dernières années.
 Vous pouvez <B>bien sûr</B> payer par carte bancaire.
 Vous pouvez <B>bien sûr</B> réfléchir un peu, avant de nous donner votre réponse.
@@ -4734,7 +4663,6 @@ Y a-t-il bien 6 178 <B>milles</B> entre ces deux aéroports ?
 À cette époque, on ne pouvait y aller <B>qu'en</B> bateau.
 À cette époque-là, ce travail était très <B>fatigant</B>.
 À combien de mètres correspondent 2 <B>milles</B> marins ?
-À dire vrai, je n'ai pas beaucoup mis ces chaussures <B>jaunes</B>.
 À dix ans, les enfants sont encore petits ; une <B>décennie</B> plus tard, ce sont de jeunes adultes.
 À droite, le peintre représente aussi deux <B>satyres</B>, à moitié cachés derrière un arbre.
 À l'<B>avenir</B>, nous serons plus prudents.
@@ -4772,7 +4700,7 @@ Y a-t-il bien 6 178 <B>milles</B> entre ces deux aéroports ?
 À ses yeux, ce n'était pas peu de <B>chose</B>, c'était même une qualité rare.
 À treize ans, ma fille est <B>presque aussi</B> grande que moi !
 À Versailles, assister au <B>lever</B> du roi était un privilège.
-Ã dire vrai, je n'ai pas beaucoup mis ces chaussures <B>jaunes</B>.
+À dire vrai, je n'ai pas beaucoup mis ces chaussures <B>jaunes</B>.
 Ça me <B>simplifierait</B> la vie, c'est sûr !
 Ça ne va pas, ce meuble <B>détonne</B> dans cette pièce.
 Ça y est, j'ai mis les chaînes sur les roues <B>avant</B> de la voiture !
@@ -4783,3 +4711,202 @@ Y a-t-il bien 6 178 <B>milles</B> entre ces deux aéroports ?
 Éviter de finir <B>invalide</B> fut l'obsession de toute sa vie.
 Êtes-vous certain que cette habitude n'est pas devenue une <B>sujétion ?</B>
 Œufs durs, tomates, pain de mie : voilà les ingrédients d'un repas <B>express</B> !
+Qu'est‑ce qu'un réservoir <B>largable</B> ?
+Pourquoi me retournes‑tu ces documents que j'ai déjà <B>relus</B> ?
+Les cratères sont facilement <B>distinguables</B> sur cette photo.
+Cette veste, je ne sais plus où je l'ai <B>achetée</B>.
+Heureusement que nous avions une échelle de secours <B>larguable</B> !
+Voici les factures que nous n'avons pas encore <B>réglées</B>.
+Ces terres étaient jusqu'à présent difficilement <B>irrigables</B>.
+Les chambres que nous avions <B>réservées</B> donnaient sur le parc.
+Voici la réponse que nous avons <B>reçue</B> ce matin.
+<B>Quoi qu'</B>il en dise, je pense que nous avons pris la bonne décision.
+On nous pose <B>fréquemment</B> cette question en ce moment.
+La ville, après tous ces bombardements, est <B>sens dessus dessous</B>.
+Il devait aller les voir ce matin, <B>or</B> il est encore là.
+Nous vous conseillons d'attendre une semaine, <B>voire</B> deux.
+Si vous avez besoin de <B>quoi que</B> ce soit, n'hésitez pas à nous le dire.
+Il a vu tous les films de cette réalisatrice, <B>hormis</B> le dernier.
+Cette collection a été <B>créée</B> par cette célèbre styliste.
+Quelle est sa <B>rémunération</B> aujourd'hui ?
+Comment se manifeste une allergie aux <B>protéines</B> de lait de vache ?
+Après la fête, ma maison était <B>sens dessus dessous</B>.
+Je devais lui téléphoner hier, <B>or</B> j'ai complètement oublié de le faire.
+<B>Est‑ce que</B> ce centre commercial <B>ouvre</B> à 9 h 30 ou à 10 heures ?
+Ils sont tous arrivés,<B>hormis</B> le directeur commercial.
+Cette société a été <B>créée</B> il y a six ans.
+Pour être à l'heure, nous devrons partir à 13 h 30, <B>voire</B> à 13 h 15.
+Sa <B>rémunération</B> comprend le salaire fixe et les commissions.
+<B>Est‑ce que</B> ces mesures <B>vont</B> suffire pour sauver la planète ?
+« Comment allez‑vous, ce matin ? » <B>demande‑t‑il</B> à son patient.
+Ils aimeraient bien voyager pendant six mois, <B>voire</B> une année.
+Il faut vraiment faire quelque chose : ta chambre est <B>sens dessus dessous</B>.
+<B>Quoiqu'</B>il ne dise rien, je sais très bien ce qu'il en pense.
+<B>Évidemment</B>, on ne voit pas toujours où est l'erreur !
+Je ne vois pas ce qui te fait penser que je suis <B>passéiste</B>.
+<B>Est‑ce que</B> la date de la prochaine réunion <B>convient</B> à tout le monde ?
+J'avais peur de prendre la parole, <B>or</B> cela s'est très bien passé.
+Le colis n'est pas arrivé, comment <B>va‑t‑on</B> faire ?
+Ils n'ont pas encore mis le chauffage, <B>quoiqu'</B>il commence à faire froid.
+Je pense que nous pourrons arriver samedi, <B>voire</B> vendredi soir.
+Après dix ans de dictature, le pays est <B>sens dessus dessous</B>.
+Sais‑tu pourquoi il était <B>hors</B> de lui ?
+La guerre civile a mis le pays <B>sens dessus dessous</B>.
+Nous avions tout préparé, <B>or</B> ils se sont décommandés à la dernière minute.
+Si je peux faire <B>quoi que</B> ce soit pour les aider…
+Je pense qu'il nous faut dix rouleaux de papier peint, <B>voire</B> onze.
+Il savait que nous comptions sur lui, <B>or</B> il n'est pas venu.
+<B>Quoiqu'</B>il ne soit pas très grand, ce jardin a du charme.
+Ils font deux heures de sport par semaine, <B>voire</B> trois.
+<B>Quoi qu'</B>il en soit, cela ne nous semble pas primordial.
+Je vais prendre deux kilos d'oranges, <B>voire</B> trois.
+Il faudrait que je fasse du sport, <B>or</B> je n'ai jamais le temps…
+Si tu as besoin de <B>quoi que</B> ce soit, tu sais où est mon bureau.
+Il attendait cela depuis des semaines, <B>voire</B> des mois.
+Pendant dix jours, nous avons eu l'impression de vivre <B>hors</B> du temps.
+Nous pouvons mettre encore deux chaises ici, <B>voire</B> trois.
+Il faudra des mois, <B>voire</B> des années pour reconstruire la ville.
+Il dit qu'il est resté chez lui ce soir‑là, <B>or</B> un témoin l'a vu sortir de l'immeuble.
+Je voulais l'éviter, <B>or</B> je suis tombé sur lui en sortant de l'ascenseur.
+Il était inquiet, <B>or</B> tout a marché comme sur des roulettes.
+Je croyais avoir pris mon téléphone, <B>or</B> il était sur mon bureau.
+Il avait rendez‑vous à 8 h 30, <B>or</B> il s'est réveillé à 8 h 26.
+Cette machine à café est visiblement <B>hors</B> d'usage.
+En arrivant au sixième étage, il était <B>hors</B> d'haleine.
+<B>Rappelez</B>‑moi dès que vous aurez mon message.
+Il est très <B>exigeant</B> sur la qualité.
+Ne me <B>dites</B> pas qu'il n'y en a plus !
+Ne <B>vend‑on</B> pas parfois la peau de l'ours avant de l'avoir tué ?
+Dans la vitrine, ils avaient mis des parapluies <B>rose bonbon</B>.
+Depuis qu'ils ont eu ce <B>différend</B>, l'ambiance n'est plus la même.
+Il a fallu que je verse un <B>acompte</B>.
+Que faut‑il mettre dans les bacs <B>verts</B> ?
+J'aimais bien ces chaussures <B>chocolat</B>, mais ils n'ont plus ma pointure.
+Que penses‑tu de ces assiettes <B>jaune</B> citron ?
+Ils avaient déjà eu un <B>différend</B> il y a quelques années.
+Quelles sont vos <B>exigences</B> ?
+<B>Dites</B>‑moi ce que je peux faire pour les aider.
+Ne pourrions‑nous pas essayer de régler ce <B>différend</B> à l'amiable ?
+Impossible de me <B>rappeler</B> son nom.
+Aviez‑vous versé un <B>acompte</B> ?
+Ses yeux <B>noisette</B> prennent des éclats dorés au soleil.
+Sais‑tu ce qui a suscité leur <B>différend</B> ?
+C'est une profession <B>exigeante</B> mais passionnante.
+Où ai‑je bien pu ranger ces serviettes <B>bleues</B> ?
+Son bureau est au <B>fond</B> du couloir, à droite.
+Il ne faut pas oublier de déduire l'<B>acompte</B>.
+Il ne se <B>rappelle</B> plus où il a mis sa carte bancaire.
+Nous venons de recevoir ces vernis <B>prune</B>.
+Les bourgeons <B>vert tendre</B> éclatent au printemps.
+<B>Rend‑il</B> bien les clés demain ?
+Je crois qu'il a les cheveux <B>bruns</B>.
+N'est‑ce pas un peu son <B>fonds</B> de commerce ?
+Faut‑il signer un document lorsqu'on verse un <B>acompte</B> ?
+Sur cette photo, on dirait que j'ai les yeux <B>pervenche</B>.
+Je me demande si mes enfants ne sont pas parfois un peu trop <B>exigeants</B>…
+En <B>fabriquant</B> cet appareil dans son garage, il n'imaginait pas qu'il allait faire fortune.
+J'ai trouvé cette lettre au <B>fond</B> de ce tiroir.
+Nous allons mettre des serviettes <B>moutarde</B>, cela changera un peu.
+Sur cette île, les maisons ont en général des volets <B>verts</B>.
+Ils ont pris à <B>partie</B> leur voisin.
+Elle a essayé de calmer ce <B>différend</B> et de trouver une solution.
+Est‑ce qu'on peut se <B>rappeler</B> un peu plus tard ?
+Ce <B>fabricant</B> de jouets en bois est un véritable artiste.
+Auriez‑vous des collants <B>aubergine</B> ?
+Je vais essayer ces deux costumes <B>noirs</B>.
+Nous essayons de satisfaire aux <B>exigences</B> de notre clientèle.
+Ce <B>soi‑disant</B> avocat n'avait en réalité aucun diplôme.
+Sur <B>ce</B>, il est parti sans dire un mot.
+On vous <B>rappellera</B> avant la fin de la semaine.
+Dans cet établissement, les élèves portaient tous des uniformes <B>bleus</B>.
+<B>Dites</B>‑lui que je peux le voir demain matin.
+Ils viendront demain pour <B>se</B> faire une idée exacte de la situation.
+Ce <B>différend</B> ne doit pas nous empêcher de travailler en équipe.
+<B>Rappelez</B> dans une heure, je pense qu'il sera rentré.
+Cette enseignante est <B>exigeante</B>, mais elle a aussi le sens de l'humour.
+Ce <B>soi‑disant</B> expert en informatique n'y connaissait rien du tout.
+À dire vrai, je n'ai pas beaucoup mis ces chaussures <B>jaunes</B>.
+C'est ce que vous <B>dites</B> maintenant, mais peut‑on vous faire confiance ?
+Vous <B>rappelez</B>‑vous le code de la porte d'entrée ?
+Alors, que <B>répond‑il</B> ?
+Ce coffret contient six tasses à café <B>cerise</B>.
+Ces rideaux <B>verts</B> feront très bien dans le salon.
+Pourquoi <B>dites</B>‑vous toujours que vous n'y arriverez pas ?
+Je vous <B>rappelle</B> dès que j'en sais plus.
+Il s'est blessé en <B>fabriquant</B> cette machine.
+L'enseigne était formée de grandes lettres <B>rouges</B>.
+<B>Ce</B> faisant, il s'est mis à dos ses deux collègues.
+Il faudrait que vous <B>rappeliez</B> demain matin.
+Ce <B>fabricant</B> de chaussettes propose des modèles de très bonne qualité.
+<B>Dites</B>‑moi, savez‑vous où ils sont ?
+Ces chaussettes gris <B>anthracite</B> sont en fil d'Écosse.
+Ces <B>soi‑disant</B> spécialistes n'étaient que des charlatans.
+<B>Ce</B> faisant, il a détendu l'atmosphère.
+Les serveurs avaient tous des gants <B>blancs</B>.
+Nous allons renvoyer cette machine au <B>fabricant</B> : elle ne fonctionne pas.
+Ces <B>soi‑disant</B> électriciens repéraient ainsi les maisons qu'ils pouvaient cambrioler.
+Il a un <B>différend</B> avec le chef de produit.
+Qu'est‑ce qu'un <B>acompte</B> sur salaire ?
+Je vais rencontrer demain le <B>fabricant</B> de cuisines dont tu m'as parlé.
+Ces <B>soi‑disant</B> policiers étaient en réalité des voleurs.
+Ils ont choisi des fauteuils <B>rouges</B> pour la salle d'attente.
+Nous travaillons surtout avec des <B>fabricants</B> de la région.
+Comment faire pour demander un <B>acompte</B> sur salaire ?
+Ce <B>soi‑disant</B> héritier a été rapidement démasqué.
+Il vient de vendre son <B>fonds</B> de commerce.
+Ai‑je un caractère <B>exigeant</B> ?
+Je me <B>rappelle</B> avoir déjà vu ces clients, mais je ne sais plus où.
+Ces tulipes <B>orange</B> sont déjà fanées.
+<B>Descend‑il</B> dans cet hôtel, finalement ?
+Nos <B>exigences</B> sont sans doute trop nombreuses.
+Ce <B>fonds</B> d'investissement mise sur de jeunes sociétés prometteuses.
+Deux petits vases <B>turquoise</B> étaient posés sur la table basse.
+Dans la famille, nous avons tous les yeux <B>marron foncé</B>.
+Pour <B>ce</B> faire, vous veillerez à motiver vos équipes.
+Pour retrouver ce contrat, j'ai fouillé mon bureau de <B>fond</B> en comble.
+J'ai mis trois coussins <B>violets</B> sur le canapé.
+Pour <B>ce</B> faire, voici comment nous allons procéder.
+Ce chef de projet est <B>exigeant</B> envers son équipe.
+Mon arrière‑grand‑père gagnait sa vie en <B>fabriquant</B> et en réparant des outils.
+Mes collègues et moi n'avons jamais eu de véritable <B>différend</B>.
+Il y a un <B>fond</B> de vérité dans ce qu'il dit.
+Je ne sais pas comment il a fait pour <B>se</B> faire inviter.
+Il a acheté une voiture <B>vert clair</B>.
+Elle est parfois un peu trop <B>exigeante</B> envers elle‑même.
+Il a commencé en <B>fabriquant</B> des parapluies.
+Le <B>différend</B> qu'il a avec son collègue plombe l'ambiance de travail.
+Où doivent‑ils aller pour <B>se</B> faire vacciner ?
+Cette directrice a fait une école de commerce, <B>tandis que</B> celle‑ci a fait des études de droit.
+<B>Contrairement aux</B> rats, qui envahissent certaines villes, les éléphants d'Asie sont une espèce menacée.
+Pourriez‑vous venir lundi à dix <B>heures</B> quinze ?
+<B>MM.</B> Duroc et Ségur viendront jeudi matin afin d'expertiser les dégâts.
+<B>Contrairement à</B> cette entreprise, qui risque de faire faillite, cette société est prospère.
+<B>Quelles que</B> soient les difficultés, je suis certain que nous parviendrons à les surmonter.
+En l'<B>occurrence</B>, ils sont hésitants.
+Il aimerait bien perdre encore 1,5 <B>kilo</B>.
+Quarante <B>mille</B> bénévoles ont participé à ces collectes de déchets.
+J'espère qu'ils vont accepter de nous prêter quatre‑<B>vingt</B> mille euros.
+<B>Quel que</B> soit le retard que nous avons pris, nous devons les livrer la semaine prochaine.
+<B>Contrairement</B> à sa sœur, qui est étudiante en médecine, il fait des études littéraires.
+Il vient de fêter ses <B>trente‑huit</B> ans.
+<B>Contrairement aux</B> requins, qui sont des poissons, les dauphins sont des mammifères.
+Il faut que nous rachetions des fruits - des pommes et des bananes, en l'<B>occurrence</B>.
+<B>Contrairement à</B> cet arbre dont les feuilles tombent à l'automne, celui‑ci a un feuillage persistant.
+Je ne comprends pas <B>comment</B> cet appareil marche.
+Alors, <B>reprend‑on</B> enfin du poil de la bête ?
+Nous te soutiendrons, <B>quelle</B> que soit ta décision.
+Est‑ce que tu penses que j'ai été trop <B>exigeant</B> ?
+À 15 h 20, vous avez déjà rendez‑vous avec <B>M.</B> Monceau.
+Sais‑tu qui j'ai vu ce matin ? <B>M.</B> Grenelle, notre ancien voisin.
+As‑tu lavé ma robe <B>bleu ciel</B> ?
+Pendant des années, ils se sont saignés aux <B>quatre</B> veines.
+<B>MM.</B> Denfert et Quinet ont repris le cabinet il y a deux ans.
+Je préviens immédiatement <B>M.</B> Lourmel de votre arrivée.
+<B>M.</B> Jourdain aimerait revoir tout cela avec vous.
+<B>M.</B> Dugommier vient d'appeler, il risque d'avoir dix minutes de retard.
+<B>MM.</B> Péri et Maubourg sont arrivés il y a une heure.
+Pourquoi ne <B>répond‑il</B> jamais tout de suite ?
+Vous pourrez ainsi tester le débit de votre <B>connexion</B>.
+Ce cours d'eau n'est pas <B>navigable</B> en été.
+Tu la <B>féliciteras</B> de ma part pour sa promotion.
+Qu'est‑ce qu'un réservoir <B>largable</B> ?

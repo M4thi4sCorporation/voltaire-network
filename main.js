@@ -18,24 +18,15 @@ const generateSentence = (data, color) => {
     console.log(data)
 }
 
-let corrects = fs.readFileSync('assets/corrects.txt').toString();
-let data = fs.readFileSync('assets/metadata.txt').toString().split('\n');
-    
-corrects = corrects.toString().split('\n')
-let correct2 = {};
-for(let i=0;i<corrects.length;i++){
-    correct2[corrects[i].split('|')[0]] = corrects[i].split('|')[1]
-}
-corrects = correct2;
+const Orthographe = async () => {
+    let data = fs.readFileSync('assets/orthographe.txt').toString().split('\n'), i, j;
 
-const main = async () => {
-    prompt.start();
-    while (true){
-        
+    while(true) {
+
         await prompt.get(['sentence']).then( async (r, e) => {
             sentence = r.sentence.toLowerCase();
             research = r.sentence.split(' ');
-            let i = 0, j = 0;
+            i = 0, j = 0;
 
             while(i < data.length){
                 let percent = 0, line = data[i].split(' ')
@@ -63,7 +54,43 @@ const main = async () => {
             if( j == 0)console.log('\x1b[32m'+'Bonne Réponse'+ '\x1b[0m');
             console.log('')
         })
-
     }
+}
+
+const main = async () => {
+    prompt.start();
+
+    console.log('\n\n\x1b[1m\x1b[36m'+
+        ' /$$    /$$  /$$$$$$  /$$    /$$$$$$$$ /$$$$$$  /$$$$$$ /$$$$$$$  /$$$$$$$$ \n'+
+        '| $$   | $$ /$$__  $$| $$   |__  $$__//$$__  $$|_  $$_/| $$__  $$| $$_____/\n'+
+        '| $$   | $$| $$  \\ $$| $$      | $$  | $$  \\ $$  | $$  | $$  \\ $$| $$      \n'+
+        '|  $$ / $$/| $$  | $$| $$      | $$  | $$$$$$$$  | $$  | $$$$$$$/| $$$$$   \n'+
+        ' \\  $$ $$/ | $$  | $$| $$      | $$  | $$__  $$  | $$  | $$__  $$| $$__/   \n'+
+        '  \\  $$$/  | $$  | $$| $$      | $$  | $$  | $$  | $$  | $$  \\ $$| $$      \n'+
+        '   \\  $/   |  $$$$$$/| $$$$$$$$| $$  | $$  | $$ /$$$$$$| $$  | $$| $$$$$$$$\n'+
+        '    \\_/     \\______/ |________/|__/  |__/  |__/|______/|__/  |__/|________/\n'+
+        '\x1b[0m\n'+
+
+        'Apres insertion d\'une phrase plusieurs résultats vont apparaitrent,\n'+
+        'ils disposeront d\'un niveau de couleur parmis ceux ci dessous :\n'+
+        '    - \x1b[1m\x1b[31mrouge\x1b[0m : \x1b[1m50% a 60%\x1b[0m de correspondance, a n\'utiliser qu\'en cas extreme, peut etre fausse\n'+
+        '    - \x1b[1m\x1b[33mjaune\x1b[0m : \x1b[1m60% a 70%\x1b[0m de correspondace, des indices mais pas parfait\n'+
+        '    - \x1b[1m\x1b[32mvert \x1b[0m : plus de \x1b[1m70%\x1b[0m de correspondance, sans doute la bonne réponse.\n\n'+
+
+        'Sélectionnez votre niveau :\n'+
+        '   \x1b[1m1\x1b[0m - Orthographe \n'+
+        '   \x1b[1m2\x1b[0m - Vocabulaire \n'+
+        '   \x1b[1m3\x1b[0m - Syntaxe & Ponctuation\n\n'
+    );
+
+    await prompt.get(['type']).then( async (r, e) => {
+        if ( r.type == '1' ){
+            Orthographe();
+        } else if ( r.type == '2' ){
+            console.log('Nothing there for now');
+        } else if ( r.type == '3' ){
+            console.log('Nothing there for now');
+        }
+    })
 }
 main()

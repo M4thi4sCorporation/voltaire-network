@@ -12,14 +12,14 @@ const generateSentence = (data, color) => {
         word = sentence2.shift()
         sentence.slice(1, 0)
 
-        data = sentence[0] + color + word + '\x1b[0m' + sentence2 + (sentence.length > 2 ? '<B> ' + sentence[2] : '');
+        data = sentence[0] + color + word + '\x1b[1m\x1b[0m' + sentence2 + (sentence.length > 2 ? '<B> ' + sentence[2] : '');
     }
 
     console.log(data)
 }
 
-const Orthographe = async () => {
-    let data = fs.readFileSync('assets/orthographe.txt').toString().split('\n'), i, j;
+const percentWithSentence = async (data) => {
+    let i, j;
 
     while(true) {
 
@@ -55,6 +55,14 @@ const Orthographe = async () => {
             console.log('')
         })
     }
+}
+
+const Orthographe = async () => {
+    percentWithSentence(fs.readFileSync('assets/orthographe.txt').toString().split('\n'))
+}
+
+const Syntaxe = async () => {
+    percentWithSentence(fs.readFileSync('assets/syntaxe.txt').toString().split('\n'))
 }
 
 const Vocabulaire = async () => {
@@ -137,7 +145,7 @@ const main = async () => {
         } else if ( r.type == '2' ){
             Vocabulaire();
         } else if ( r.type == '3' ){
-            console.log('Nothing there for now');
+            Syntaxe();
         }
     })
 }

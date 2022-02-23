@@ -57,6 +57,54 @@ const Orthographe = async () => {
     }
 }
 
+const Vocabulaire = async () => {
+    let data = fs.readFileSync('assets/vocabulaire.txt').toString().split('\n'), i, j;
+
+    while(true) {
+
+        await prompt.get(['word']).then( async (r, e) => {
+            researchWord = r.word.normalize("NFD").replace(/[\u0300-\u036f]/g, "").split(' ')[0].split('');
+            i = 0, j = 0;
+
+            
+
+            while(i < data.length){
+
+                if( data[i].split(' -> ')[0].length > researchWord.length + 2 || data[i].split(' -> ')[0].length < researchWord.length - 2 ){
+
+                } else if(r.word.split(' ')[0] === data[i].split(' -> ')[0]){
+                    generateSentence(data[i], '\x1b[32m');
+                    j++;
+
+                } else {
+                    let percent = 0, dataWord = data[i].split(' -> ')[0].split('')
+
+                    for ( let letter of researchWord ) dataWord.includes(letter) ? percent += 100 / researchWord.length : '';
+                    
+                    if(  percent > 90 && percent < 92 ){
+    
+                        generateSentence(data[i], '\x1b[31m');
+                        j++;
+                    }
+                    else if( percent > 92 && percent < 95 ){
+                        generateSentence(data[i], '\x1b[33m');
+                        j++;
+                    }
+                    else if(  percent > 95 ){
+                        
+                        generateSentence(data[i], '\x1b[32m');
+                        j++;
+                    }
+                }
+                i++
+            }
+
+            if( j == 0)console.log('\x1b[32m'+'Error : Nothing Found'+ '\x1b[0m');
+            console.log('')
+        })
+    }
+}
+
 const main = async () => {
     prompt.start();
 
@@ -87,7 +135,7 @@ const main = async () => {
         if ( r.type == '1' ){
             Orthographe();
         } else if ( r.type == '2' ){
-            console.log('Nothing there for now');
+            Vocabulaire();
         } else if ( r.type == '3' ){
             console.log('Nothing there for now');
         }

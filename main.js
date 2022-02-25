@@ -3,12 +3,12 @@ const prompt = require('prompt');
 
 const generateSentence = (data, color) => {
    
-    while(data.includes('<B>')){
+    while(data.includes(' <B> ')){
         let sentence, sentence2, word;
-        sentence = data.split('<B>')
+        sentence = data.split(' <B> ')
         word = sentence[1]
     
-        sentence2 = word.split('</B>')
+        sentence2 = word.split(' </B> ')
         word = sentence2.shift()
         sentence.slice(1, 0)
 
@@ -31,9 +31,9 @@ const percentWithSentence = async (data) => {
             while(i < data.length){
                 let percent = 0, line = data[i].split(' ')
 
-                for ( let term of research) line.includes(term) ? percent += 100 / research.length : '';
+                for ( let term of research) line.includes(term) ? percent += 100 / (research.length - 2) : '';
                 
-                if( sentence.toLowerCase().includes(line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','')) || line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','').includes(sentence.toLowerCase()) ){
+                if( sentence.toLowerCase().includes(line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','')) || line.join(' ').toLowerCase().replace(' <B> ', '').replace(' </B> ','').includes(sentence.toLowerCase()) ){
 
                 } else if(  percent > 50 && percent < 60 ){
 

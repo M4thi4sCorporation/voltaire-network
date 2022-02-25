@@ -12,13 +12,12 @@ const generateSentence = (data, color) => {
         word = sentence2.shift()
         sentence.slice(1, 0)
 
-        data = sentence[0] + color + word + '\x1b[1m\x1b[0m' + sentence2 + (sentence.length > 2 ? '<B> ' + sentence[2] : '');
+        data = sentence[0] + color + word.split(' ').filter(e => e != '').join(' ') + '\x1b[1m\x1b[0m' + sentence2 + (sentence.length > 2 ? ' <B>  ' + sentence[2] : '');
     }
-
     console.log(data)
 }
 
-const percentWithSentence = async (data) => {
+const percentWithSentence = async (data, percents) => {
     let i, j;
 
     while(true) {
@@ -32,19 +31,25 @@ const percentWithSentence = async (data) => {
                 let percent = 0, line = data[i].split(' ')
 
                 for ( let term of research) line.includes(term) ? percent += 100 / (research.length - 2) : '';
-                
-                if( sentence.toLowerCase().includes(line.join(' ').toLowerCase().replace('<b>', '').replace('</b>','')) || line.join(' ').toLowerCase().replace(' <B> ', '').replace(' </B> ','').includes(sentence.toLowerCase()) ){
 
-                } else if(  percent > 50 && percent < 60 ){
+                if( 
+                    sentence.toLowerCase().replaceAll('  ', ' ').includes(
+                        line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').replaceAll('  ', ' ')
+                    ) || 
+                    line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').replaceAll('  ', ' ').includes(
+                        sentence.toLowerCase().replaceAll('  ', ' ')
+                    ) ){
+
+                } else if(  percent > percents[0] && percent < percents[1] ){
 
                     generateSentence(data[i], '\x1b[31m');
                     j++;
                 }
-                else if( percent > 60 && percent < 70 ){
+                else if( percent > percents[1] && percent < percents[2] ){
                     generateSentence(data[i], '\x1b[33m');
                     j++;
                 }
-                else if(  percent > 70 ){
+                else if(  percent > percents[2] ){
                     generateSentence(data[i], '\x1b[32m');
                     j++;
                 }
@@ -58,11 +63,11 @@ const percentWithSentence = async (data) => {
 }
 
 const Orthographe = async () => {
-    percentWithSentence(fs.readFileSync('assets/orthographe.txt').toString().split('\n'))
+    percentWithSentence(fs.readFileSync('assets/orthographe.txt').toString().split('\n'), [70,80,90])
 }
 
 const Syntaxe = async () => {
-    percentWithSentence(fs.readFileSync('assets/syntaxe.txt').toString().split('\n'))
+    percentWithSentence(fs.readFileSync('assets/syntaxe.txt').toString().split('\n'), [50,60,70])
 }
 
 const Vocabulaire = async () => {

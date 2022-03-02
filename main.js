@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const prompt = require('prompt');
 
 const generateSentence = (data, color) => {
@@ -63,15 +64,15 @@ const percentWithSentence = async (data, percents) => {
 }
 
 const Orthographe = async () => {
-    percentWithSentence(fs.readFileSync('assets/orthographe.txt').toString().split('\n'), [70,80,90])
+    percentWithSentence(fs.readFileSync(path.normalize(`${__dirname}/assets/orthographe.txt`)).toString().split('\n'), [70,80,90])
 }
 
 const Syntaxe = async () => {
-    percentWithSentence(fs.readFileSync('assets/syntaxe.txt').toString().split('\n'), [50,60,70])
+    percentWithSentence(fs.readFileSync(path.normalize(`${__dirname}/assets/syntaxe.txt`)).toString().split('\n'), [50,60,70])
 }
 
 const Vocabulaire = async () => {
-    let data = fs.readFileSync('assets/vocabulaire.txt').toString().split('\n'), i, j;
+    let data = fs.readFileSync(path.normalize(`${__dirname}/assets/vocabulaire.txt`)).toString().split('\n'), i, j;
 
     while(true) {
 

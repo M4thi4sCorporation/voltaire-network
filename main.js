@@ -77,16 +77,14 @@ const Vocabulaire = async () => {
     while(true) {
 
         await prompt.get(['word']).then( async (r, e) => {
-            researchWord = r.word.normalize("NFD").replace(/[\u0300-\u036f]/g, "").split(' ')[0].split('');
+            researchWord = r.word.normalize("NFD").replace(/[\u0300-\u036f]/g, "").split('');
             i = 0, j = 0;
-
-            
 
             while(i < data.length){
 
                 if( data[i].split(' -> ')[0].length > researchWord.length + 2 || data[i].split(' -> ')[0].length < researchWord.length - 2 ){
 
-                } else if(r.word.split(' ')[0] === data[i].split(' -> ')[0]){
+                } else if(r.word === data[i].split(' -> ')[0]){
                     generateSentence(data[i], '\x1b[32m');
                     j++;
 

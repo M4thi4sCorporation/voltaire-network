@@ -1,8 +1,8 @@
 # Installation
 
-Requis npm et nodejs :
-    - ![Download NodeJs (Win/Lin)](https://nodejs.org/en/)
-    - ![Download npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)
+Requis npm et nodejs :  
+    - [Download NodeJs (Win/Lin)](https://nodejs.org/en/)  
+    - [Download npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-version-manager-to-install-nodejs-and-npm)  
 
 Faire la commande `$ npm i` dans le dossier `voltaire-network`.
 

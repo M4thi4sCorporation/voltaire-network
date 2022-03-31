@@ -8,7 +8,7 @@ Requis npm et nodejs :
 
 Faire la commande `$ npm i` dans le dossier `voltaire-network`.
 
-Lancer le fichier main avec nodejs
-Lancer le navigateur et une épreuve d'orthographe
-Démarrer le script du fichier "scriptnavigateur.js" dans la console
+Lancer le fichier main avec nodejs<br>
+Lancer le navigateur et une épreuve d'orthographe<br>
+Démarrer le script du fichier "scriptnavigateur.js" dans la console<br>
 la correction devrait apparaitre en bas de la page

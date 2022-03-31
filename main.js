@@ -2,6 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const prompt = require('prompt');
 
+var express = require('express');
+var app = express();
+
 const generateSentence = (data, color) => {
    
     while(data.includes(' <B> ')){
@@ -18,6 +21,23 @@ const generateSentence = (data, color) => {
     console.log(data)
 }
 
+const generateSentenceV2 = (data, color) => {
+   
+    while(data.includes(' <B> ')){
+        let sentence, sentence2, word;
+        sentence = data.split(' <B> ')
+        word = sentence[1]
+    
+        sentence2 = word.split(' </B> ')
+        word = sentence2.shift()
+        sentence.slice(1, 0)
+
+        data = sentence[0] + color + word.split(' ').filter(e => e != '').join(' ') + '\x1b[1m\x1b[0m' + sentence2 + (sentence.length > 2 ? ' <B>  ' + sentence[2] : '');
+    }
+    return data+"\n"
+}
+
+
 const percentWithSentence = async (data, percents) => {
     let i, j;
 
@@ -33,12 +53,13 @@ const percentWithSentence = async (data, percents) => {
 
                 for ( let term of research) line.includes(term) ? percent += 100 / (research.length - 2) : '';
 
+
                 if( 
-                    sentence.toLowerCase().replaceAll('  ', ' ').includes(
-                        line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').replaceAll('  ', ' ')
+                    sentence.toLowerCase().includes(
+                        line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','')
                     ) || 
-                    line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').replaceAll('  ', ' ').includes(
-                        sentence.toLowerCase().replaceAll('  ', ' ')
+                    line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').includes(
+                        sentence.toLowerCase()
                     ) ){
 
                 } else if(  percent > percents[0] && percent < percents[1] ){
@@ -63,8 +84,65 @@ const percentWithSentence = async (data, percents) => {
     }
 }
 
+//	r = phrase
+const percentWithSentenceV2 = (data, percents, r) => {
+    let i, j;
+
+
+    sentence = r.toLowerCase();
+    research = r.split(' ');
+    i = 0, j = 0;
+
+    res = ""
+
+    while(i < data.length){
+        let percent = 0, line = data[i].split(' ')
+
+        for ( let term of research) line.includes(term) ? percent += 100 / (research.length - 2) : '';
+
+
+        if( 
+            sentence.toLowerCase().includes(
+                line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','')
+            ) || 
+            line.join(' ').toLowerCase().replace(' <b> ', '').replace(' </b> ','').includes(
+                sentence.toLowerCase()
+            ) ){
+
+        } else if(  percent > percents[0] && percent < percents[1] ){
+
+            res+=generateSentenceV2(data[i], '\x1b[31m');
+            j++;
+        }
+        else if( percent > percents[1] && percent < percents[2] ){
+            res+=generateSentenceV2(data[i], '\x1b[33m');
+            j++;
+        }
+        else if(  percent > percents[2] ){
+            res+=generateSentenceV2(data[i], '\x1b[32m');
+            j++;
+        }
+        i++
+    }
+
+    if( j == 0)res+='\x1b[32m'+'Bonne Réponse'+ '\x1b[0m';
+
+    return res;
+}
+
+
 const Orthographe = async () => {
-    percentWithSentence(fs.readFileSync(path.normalize(`${__dirname}/assets/orthographe.txt`)).toString().split('\n'), [70,80,90])
+    percentWithSentence(
+    	fs.readFileSync(path.normalize(`${__dirname}/assets/orthographe.txt`)).toString().split('\n'), 
+    	[70,80,90])
+}
+
+const OrthographeV2 = (phrase) => {
+    return percentWithSentenceV2(
+    	fs.readFileSync(path.normalize(`${__dirname}/assets/orthographe.txt`)).toString().split('\n'), 
+    	[70,80,90],
+    	phrase
+    )
 }
 
 const Syntaxe = async () => {
@@ -154,3 +232,17 @@ const main = async () => {
     })
 }
 main()
+
+app.get('/orthographe', function(req, res) {
+	if(req.query.phrase != null){
+		console.log("phrase : "+req.query.phrase)
+  		res.send(OrthographeV2(req.query.phrase));
+  	}
+  	else{
+  		res.send('pas de phrase');
+  	}
+});
+
+app.listen(3000, () => {
+  console.log("Example app listening on port "+3000)
+})
